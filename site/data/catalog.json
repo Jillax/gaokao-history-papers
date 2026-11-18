@@ -1,0 +1,3817 @@
+{
+  "meta": {
+    "summary": "2015 年 10 月至 2026 年 · 编目 131 套 · 已归档 124 套（另含 4 套官方评析/节选补充），其中 112 套题面可用于评选。榜单基于公开可核的题面。",
+    "generatedAt": "2026-11-18 19:03:23"
+  },
+  "papers": [
+    {
+      "id": "上海-2017年上海卷",
+      "region": "上海",
+      "regionFull": "上海",
+      "title": "2017年上海卷",
+      "year": 2017,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开流传的文字实录 PDF，附参考答案",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/上海/2017年上海历史等级考.pdf",
+          "ext": "pdf",
+          "sizeBytes": 296681,
+          "sizeText": "289.7 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://29805199.s21i.faiusr.com/61/3/ABUIABA9GAAg6LPtogYo_Irn-Qc.pdf"
+        }
+      ]
+    },
+    {
+      "id": "上海-2018年上海卷",
+      "region": "上海",
+      "regionFull": "上海",
+      "title": "2018年上海卷",
+      "year": 2018,
+      "status": "部分题面",
+      "statusDetail": "部分题面",
+      "note": "公开文字稿，图表缺失",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/上海/2018年上海历史等级考.html",
+          "ext": "html",
+          "sizeBytes": 10127,
+          "sizeText": "9.9 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://www.yeyulingfeng.com/wendang/584083.html"
+        }
+      ]
+    },
+    {
+      "id": "上海-2019年上海卷",
+      "region": "上海",
+      "regionFull": "上海",
+      "title": "2019年上海卷",
+      "year": 2019,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开组卷整理版，与考试院评析交叉核对",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/上海/2019年上海历史等级考.html",
+          "ext": "html",
+          "sizeBytes": 713787,
+          "sizeText": "697.1 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://zujuan.zxls.com/PaperList.aspx?id=10815"
+        }
+      ]
+    },
+    {
+      "id": "上海-2020年上海卷",
+      "region": "上海",
+      "regionFull": "上海",
+      "title": "2020年上海卷",
+      "year": 2020,
+      "status": "待补",
+      "statusDetail": "待补",
+      "note": "仅核对考试院试卷评析与公开单题",
+      "files": [],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://www.shmeea.edu.cn/page/02100/20200709/14235.html"
+        }
+      ]
+    },
+    {
+      "id": "上海-2021年上海卷",
+      "region": "上海",
+      "regionFull": "上海",
+      "title": "2021年上海卷",
+      "year": 2021,
+      "status": "部分题面",
+      "statusDetail": "部分题面",
+      "note": "公开文字稿，OCR错字多、图表缺失",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/上海/2021年上海历史等级考.html",
+          "ext": "html",
+          "sizeBytes": 28626,
+          "sizeText": "28.0 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://www.yeyulingfeng.com/wendang/584530.html"
+        }
+      ]
+    },
+    {
+      "id": "上海-2022年上海卷",
+      "region": "上海",
+      "regionFull": "上海",
+      "title": "2022年上海卷",
+      "year": 2022,
+      "status": "待补",
+      "statusDetail": "待补（已补充四大主题与第一题节选）",
+      "note": "公开文字预览，部分图表缺失",
+      "files": [
+        {
+          "label": "主题节选",
+          "path": "原卷/上海/2022年上海历史等级考（公开节选与评析）.md",
+          "ext": "md",
+          "sizeBytes": 1739,
+          "sizeText": "1.7 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://www.renrendoc.com/paper/495639414.html"
+        }
+      ]
+    },
+    {
+      "id": "上海-2023年上海卷",
+      "region": "上海",
+      "regionFull": "上海",
+      "title": "2023年上海卷",
+      "year": 2023,
+      "status": "部分题面",
+      "statusDetail": "部分题面",
+      "note": "回忆整理 PDF，个别选项和材料有阙漏",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/上海/2023年上海历史等级考.pdf",
+          "ext": "pdf",
+          "sizeBytes": 576041,
+          "sizeText": "562.5 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://www.jiaoyuwu.com/downfile/1205.html"
+        }
+      ]
+    },
+    {
+      "id": "上海-2024年上海卷",
+      "region": "上海",
+      "regionFull": "上海",
+      "title": "2024年上海卷",
+      "year": 2024,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "两份公开整理本交叉核对，附参考答案",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/上海/2024年上海历史等级考.pdf",
+          "ext": "pdf",
+          "sizeBytes": 2823157,
+          "sizeText": "2.69 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://imgs.app.gaokaozhitongche.com/resource/pdf/paper/202406/20240617094907_XPmJwr.pdf"
+        }
+      ]
+    },
+    {
+      "id": "上海-2025年上海卷",
+      "region": "上海",
+      "regionFull": "上海",
+      "title": "2025年上海卷",
+      "year": 2025,
+      "status": "待补",
+      "statusDetail": "待补（已补充考试院官方评析与四大主题）",
+      "note": "公开组卷整理，已找到在线题面",
+      "files": [
+        {
+          "label": "官方评析",
+          "path": "原卷/上海/2025年上海历史等级考（考试院官方评析与大题主题）.md",
+          "ext": "md",
+          "sizeBytes": 1605,
+          "sizeText": "1.6 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://zujuan.21cnjy.com/paper/view/6274899"
+        }
+      ]
+    },
+    {
+      "id": "上海-2026年上海卷",
+      "region": "上海",
+      "regionFull": "上海",
+      "title": "2026年上海卷",
+      "year": 2026,
+      "status": "待补",
+      "statusDetail": "待补（已补充考试院官方评析与核心议题）",
+      "note": "仅核对考试院试卷评析",
+      "files": [
+        {
+          "label": "官方评析",
+          "path": "原卷/上海/2026年上海历史等级考（考试院官方评析与核心议题）.md",
+          "ext": "md",
+          "sizeBytes": 1336,
+          "sizeText": "1.3 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://m.shedunews.sh.cn/msite_4/con/2026-05/07/content_30943.html"
+        }
+      ]
+    },
+    {
+      "id": "北京-2020年北京卷",
+      "region": "北京",
+      "regionFull": "北京",
+      "title": "2020年北京卷",
+      "year": 2020,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/北京/2020年北京高考历史（公开转载版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 4844510,
+          "sizeText": "4.62 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://cdn.gaokzx.com/zixunzhan/202403/167f3339-582a-49e8-ab67-80b11b817840.pdf"
+        }
+      ]
+    },
+    {
+      "id": "北京-2021年北京卷",
+      "region": "北京",
+      "regionFull": "北京",
+      "title": "2021年北京卷",
+      "year": 2021,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/北京/2021年北京高考历史（公开转载版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 6953350,
+          "sizeText": "6.63 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://cdn.gaokzx.com/zixunzhan/202310/1320fe87-316e-419a-bdfa-d605af1e90db.pdf"
+        }
+      ]
+    },
+    {
+      "id": "北京-2022年北京卷",
+      "region": "北京",
+      "regionFull": "北京",
+      "title": "2022年北京卷",
+      "year": 2022,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/北京/2022年北京高考历史（公开转载版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 1258647,
+          "sizeText": "1.20 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://raw.githubusercontent.com/qingshuo/China-Gaokao-Papers-Collection/main/papers/2022/BJ/%E5%8E%86%E5%8F%B2/%E5%8C%97%E4%BA%AC%E5%8E%86%E5%8F%B2-%E8%AF%95%E9%A2%98-p.pdf"
+        }
+      ]
+    },
+    {
+      "id": "北京-2023年北京卷",
+      "region": "北京",
+      "regionFull": "北京",
+      "title": "2023年北京卷",
+      "year": 2023,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/北京/2023年北京高考历史（公开转载版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 484556,
+          "sizeText": "473.2 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://raw.githubusercontent.com/qingshuo/China-Gaokao-Papers-Collection/main/papers/2023/BJ/%E5%8E%86%E5%8F%B2/%E5%8C%97%E4%BA%AC%E5%8E%86%E5%8F%B2-%E8%AF%95%E9%A2%98-p.pdf"
+        }
+      ]
+    },
+    {
+      "id": "北京-2024年北京卷",
+      "region": "北京",
+      "regionFull": "北京",
+      "title": "2024年北京卷",
+      "year": 2024,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/北京/2024年北京高考历史（公开转载版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 2669012,
+          "sizeText": "2.55 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://cdn.gaokzx.com/17204314282112024%E5%8C%97%E4%BA%AC%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.pdf"
+        }
+      ]
+    },
+    {
+      "id": "北京-2025年北京卷",
+      "region": "北京",
+      "regionFull": "北京",
+      "title": "2025年北京卷",
+      "year": 2025,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/北京/2025年北京高考历史（公开转载版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 714337,
+          "sizeText": "697.6 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://www.jhgk.cn/upload/file/20250708/1751942048077009544.pdf"
+        }
+      ]
+    },
+    {
+      "id": "北京-2026年北京卷",
+      "region": "北京",
+      "regionFull": "北京",
+      "title": "2026年北京卷",
+      "year": 2026,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "转载图版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/北京/2026年北京高考历史（转载图版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 1373342,
+          "sizeText": "1.31 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://app.gaokaozhitongche.com/newsexam/h/3wGzdLYM"
+        }
+      ]
+    },
+    {
+      "id": "天津-2020年天津卷",
+      "region": "天津",
+      "regionFull": "天津",
+      "title": "2020年天津卷",
+      "year": 2020,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/天津/2020年天津高考历史（公开转载版）.docx",
+          "ext": "docx",
+          "sizeBytes": 431634,
+          "sizeText": "421.5 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://gaokao.eol.cn/shiti/zhenti/202007/W020220527587007548666.doc"
+        }
+      ]
+    },
+    {
+      "id": "天津-2021年天津卷",
+      "region": "天津",
+      "regionFull": "天津",
+      "title": "2021年天津卷",
+      "year": 2021,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "网页整理版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/天津/2021年天津高考历史（网页整理版）.html",
+          "ext": "html",
+          "sizeBytes": 19978,
+          "sizeText": "19.5 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://gaokaohub.com/paper/2021-tianjin-history-51590.html"
+        }
+      ]
+    },
+    {
+      "id": "天津-2022年天津卷",
+      "region": "天津",
+      "regionFull": "天津",
+      "title": "2022年天津卷",
+      "year": 2022,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "教育在线转载题面与参考答案",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/天津/2022年天津高考历史（公开转载版）.docx",
+          "ext": "docx",
+          "sizeBytes": 425257,
+          "sizeText": "415.3 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://gaokao.eol.cn/shiti/ls/202303/W020230314563058504623.docx"
+        }
+      ]
+    },
+    {
+      "id": "天津-2023年天津卷",
+      "region": "天津",
+      "regionFull": "天津",
+      "title": "2023年天津卷",
+      "year": 2023,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/天津/2023年天津高考历史（公开转载版）.docx",
+          "ext": "docx",
+          "sizeBytes": 79054,
+          "sizeText": "77.2 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://kaosj.com/papers/2023/06/2023-tianjin-gaokao-history-paper/"
+        }
+      ]
+    },
+    {
+      "id": "天津-2024年天津卷",
+      "region": "天津",
+      "regionFull": "天津",
+      "title": "2024年天津卷",
+      "year": 2024,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "转载图版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/天津/2024年天津高考历史（转载图版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 4105412,
+          "sizeText": "3.92 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://app.gaokaozhitongche.com/newsexam/h/dgX1yzzD"
+        }
+      ]
+    },
+    {
+      "id": "天津-2025年天津卷",
+      "region": "天津",
+      "regionFull": "天津",
+      "title": "2025年天津卷",
+      "year": 2025,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "转载图版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/天津/2025年天津高考历史（转载图版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 1505455,
+          "sizeText": "1.44 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://app.gaokaozhitongche.com/newsexam/pc/Ew5LxQ2M"
+        }
+      ]
+    },
+    {
+      "id": "天津-2026年天津卷",
+      "region": "天津",
+      "regionFull": "天津",
+      "title": "2026年天津卷",
+      "year": 2026,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "网页整理版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/天津/2026年天津高考历史（网页整理版）.html",
+          "ext": "html",
+          "sizeBytes": 112958,
+          "sizeText": "110.3 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://zujuan.zxls.com/PaperList.aspx?id=31478"
+        }
+      ]
+    },
+    {
+      "id": "山东-2020年山东卷",
+      "region": "山东",
+      "regionFull": "山东",
+      "title": "2020年山东卷",
+      "year": 2020,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "考试院发布转载图版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/山东/2020年山东历史（考试院发布转载图版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 2116947,
+          "sizeText": "2.02 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://www.sdjyxww.com/html/article_15497.html"
+        }
+      ]
+    },
+    {
+      "id": "山东-2021年山东卷",
+      "region": "山东",
+      "regionFull": "山东",
+      "title": "2021年山东卷",
+      "year": 2021,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "备课档案图版，含题面与参考答案",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/山东/2021年山东历史（备课存档图版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 4323286,
+          "sizeText": "4.12 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://17094505.s21i.faiusr.com/61/ABUIABA9GAAgi7vfhwYoxLyG6wM.pdf"
+        }
+      ]
+    },
+    {
+      "id": "山东-2022年山东卷",
+      "region": "山东",
+      "regionFull": "山东",
+      "title": "2022年山东卷",
+      "year": 2022,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "教育在线转载 PDF，题面图文齐全 · 4 张配图需联网",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/山东/2022年山东历史（试题转载版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 430185,
+          "sizeText": "420.1 KB",
+          "exists": true
+        },
+        {
+          "label": "备课档案所附参考答案",
+          "path": "原卷/山东/2022年山东历史（参考答案）.docx",
+          "ext": "docx",
+          "sizeBytes": 31878,
+          "sizeText": "31.1 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://gaokao.eol.cn/shiti/zhenti/202207/W020220704523839589357.pdf"
+        }
+      ]
+    },
+    {
+      "id": "山东-2023年山东卷",
+      "region": "山东",
+      "regionFull": "山东",
+      "title": "2023年山东卷",
+      "year": 2023,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开转载图版，八页题面及三页参考答案，图表已补齐",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/山东/2023年山东历史（公开图版）.html",
+          "ext": "html",
+          "sizeBytes": 1168176,
+          "sizeText": "1.11 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://sjds.net/689765.html"
+        }
+      ]
+    },
+    {
+      "id": "山东-2024年山东卷",
+      "region": "山东",
+      "regionFull": "山东",
+      "title": "2024年山东卷",
+      "year": 2024,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "备课档案题面及参考答案，图文齐全",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/山东/2024年山东历史（备课存档题面及答案）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 643249,
+          "sizeText": "628.2 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://raw.githubusercontent.com/qingshuo/China-Gaokao-Papers-Collection/main/papers/2024/SD/%E5%8E%86%E5%8F%B2/%E5%B1%B1%E4%B8%9C%E5%8E%86%E5%8F%B2-%E8%AF%95%E9%A2%98-p.pdf"
+        }
+      ]
+    },
+    {
+      "id": "山东-2025年山东卷",
+      "region": "山东",
+      "regionFull": "山东",
+      "title": "2025年山东卷",
+      "year": 2025,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "备课档案图版，完整题面 · 2 张配图需联网",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/山东/2025年山东历史（备课存档图版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 2370994,
+          "sizeText": "2.26 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://zujuan.zxls.com/PaperList.aspx?id=24413"
+        }
+      ]
+    },
+    {
+      "id": "山东-2026年山东卷",
+      "region": "山东",
+      "regionFull": "山东",
+      "title": "2026年山东卷",
+      "year": 2026,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "网页整理版，多源校补第17题表格与插图 · 2 张配图需联网",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/山东/2026年山东历史（多源核校网页整理版）.html",
+          "ext": "html",
+          "sizeBytes": 41727527,
+          "sizeText": "39.79 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://zujuan.zxls.com/PaperList.aspx?id=29370"
+        }
+      ]
+    },
+    {
+      "id": "海南-2020年海南卷",
+      "region": "海南",
+      "regionFull": "海南",
+      "title": "2020年海南卷",
+      "year": 2020,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开题面网页存档",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/海南/2020年海南历史卷（公开题面网页存档）.html",
+          "ext": "html",
+          "sizeBytes": 394188,
+          "sizeText": "384.9 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://gaokaohub.com/paper/2020-province-legacy-history-28405.html"
+        }
+      ]
+    },
+    {
+      "id": "海南-2021年海南卷",
+      "region": "海南",
+      "regionFull": "海南",
+      "title": "2021年海南卷",
+      "year": 2021,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开整理版·题面",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/海南/2021年海南历史卷（公开整理版·题面）.docx",
+          "ext": "docx",
+          "sizeBytes": 87105,
+          "sizeText": "85.1 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://kaosj.com/papers/2021/06/2021-hainan-gaokao-history-original/2021_%E9%AB%98%E8%80%83_%E5%8E%86%E5%8F%B2_%E6%B5%B7%E5%8D%97_%E5%8E%9F%E5%8D%B7%E7%89%88%5Bkaosj.com%5D.docx"
+        }
+      ]
+    },
+    {
+      "id": "海南-2022年海南卷",
+      "region": "海南",
+      "regionFull": "海南",
+      "title": "2022年海南卷",
+      "year": 2022,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开整理版·题面",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/海南/2022年海南历史卷（公开整理版·题面）.docx",
+          "ext": "docx",
+          "sizeBytes": 217378,
+          "sizeText": "212.3 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://kaosj.com/papers/2022/06/2022-hainan-gaokao-history-paper/2022_%E9%AB%98%E8%80%83_%E5%8E%86%E5%8F%B2_%E6%B5%B7%E5%8D%97_%E5%8E%9F%E5%8D%B7%E7%89%88%5Bkaosj.com%5D.docx"
+        }
+      ]
+    },
+    {
+      "id": "海南-2023年海南卷",
+      "region": "海南",
+      "regionFull": "海南",
+      "title": "2023年海南卷",
+      "year": 2023,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开整理版·题面",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/海南/2023年海南历史卷（公开整理版·题面）.docx",
+          "ext": "docx",
+          "sizeBytes": 78191,
+          "sizeText": "76.4 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://kaosj.com/papers/2023/06/2023-hainan-gaokao-history-paper/2023_%E9%AB%98%E8%80%83_%E5%8E%86%E5%8F%B2_%E6%B5%B7%E5%8D%97_%E5%8E%9F%E5%8D%B7%E7%89%88%5Bkaosj.com%5D.docx"
+        }
+      ]
+    },
+    {
+      "id": "海南-2024年海南卷",
+      "region": "海南",
+      "regionFull": "海南",
+      "title": "2024年海南卷",
+      "year": 2024,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开整理版·题面与参考答案",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/海南/2024年海南历史卷（公开整理版·题面与参考答案）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 11140542,
+          "sizeText": "10.62 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://imgs.app.gaokaozhitongche.com/resource/pdf/paper/202410/20241016022356_ASvRYF.pdf"
+        }
+      ]
+    },
+    {
+      "id": "海南-2025年海南卷",
+      "region": "海南",
+      "regionFull": "海南",
+      "title": "2025年海南卷",
+      "year": 2025,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开整理版·题面与参考答案",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/海南/2025年海南历史卷（公开整理版·题面与参考答案）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 3468920,
+          "sizeText": "3.31 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://img.gaokaozhitongche.com/resource/pdf/paper/202511/20251103012942_jzLPdm.pdf"
+        }
+      ]
+    },
+    {
+      "id": "海南-2026年海南卷",
+      "region": "海南",
+      "regionFull": "海南",
+      "title": "2026年海南卷",
+      "year": 2026,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开题面网页存档",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/海南/2026年海南历史卷（公开题面网页存档）.html",
+          "ext": "html",
+          "sizeBytes": 39000,
+          "sizeText": "38.1 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://sjds.net/818315.html"
+        }
+      ]
+    },
+    {
+      "id": "河北-2021年河北卷",
+      "region": "河北",
+      "regionFull": "河北",
+      "title": "2021年河北卷",
+      "year": 2021,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "转载图版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/河北/2021年河北高考历史（转载图版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 8131994,
+          "sizeText": "7.76 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://app.gaokaozhitongche.com/newsexam/pc/VMpOJND8"
+        }
+      ]
+    },
+    {
+      "id": "河北-2022年河北卷",
+      "region": "河北",
+      "regionFull": "河北",
+      "title": "2022年河北卷",
+      "year": 2022,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "网页整理版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/河北/2022年河北高考历史（网页整理版）.html",
+          "ext": "html",
+          "sizeBytes": 79819,
+          "sizeText": "77.9 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://www.shijuan.xin/gk/history/2022-hebei.html"
+        }
+      ]
+    },
+    {
+      "id": "河北-2023年河北卷",
+      "region": "河北",
+      "regionFull": "河北",
+      "title": "2023年河北卷",
+      "year": 2023,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/河北/2023年河北高考历史（公开转载版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 2518636,
+          "sizeText": "2.40 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://cdn.gaokzx.com/zixunzhan/202403/afe173f7-1f60-4d98-b7d2-a0b6130747c4.pdf"
+        }
+      ]
+    },
+    {
+      "id": "河北-2024年河北卷",
+      "region": "河北",
+      "regionFull": "河北",
+      "title": "2024年河北卷",
+      "year": 2024,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/河北/2024年河北高考历史（公开转载版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 2790651,
+          "sizeText": "2.66 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://cdn.gaokzx.com/17298410586112024%E6%B2%B3%E5%8C%97%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.pdf"
+        }
+      ]
+    },
+    {
+      "id": "河北-2025年河北卷",
+      "region": "河北",
+      "regionFull": "河北",
+      "title": "2025年河北卷",
+      "year": 2025,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "网页整理版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/河北/2025年河北高考历史（网页整理版）.html",
+          "ext": "html",
+          "sizeBytes": 24970,
+          "sizeText": "24.4 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://gaokaohub.com/paper/2025-province-legacy-history-10310.html"
+        }
+      ]
+    },
+    {
+      "id": "河北-2026年河北卷",
+      "region": "河北",
+      "regionFull": "河北",
+      "title": "2026年河北卷",
+      "year": 2026,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "转载图版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/河北/2026年河北高考历史（转载图版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 1324427,
+          "sizeText": "1.26 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://app.gaokaozhitongche.com/newsexam/pc/bwKqReRD"
+        }
+      ]
+    },
+    {
+      "id": "辽宁-2021年辽宁卷",
+      "region": "辽宁",
+      "regionFull": "辽宁",
+      "title": "2021年辽宁卷",
+      "year": 2021,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/辽宁/2021年辽宁高考历史（公开转载版）.docx",
+          "ext": "docx",
+          "sizeBytes": 448165,
+          "sizeText": "437.7 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://gaokao.eol.cn/shiti/ls/202111/W020220531388746627505.docx"
+        }
+      ]
+    },
+    {
+      "id": "辽宁-2022年辽宁卷",
+      "region": "辽宁",
+      "regionFull": "辽宁",
+      "title": "2022年辽宁卷",
+      "year": 2022,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/辽宁/2022年辽宁高考历史（公开转载版）.docx",
+          "ext": "docx",
+          "sizeBytes": 763235,
+          "sizeText": "745.3 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://gaokao.eol.cn/shiti/ls/202303/W020230314546669038726.docx"
+        }
+      ]
+    },
+    {
+      "id": "辽宁-2023年辽宁卷",
+      "region": "辽宁",
+      "regionFull": "辽宁",
+      "title": "2023年辽宁卷",
+      "year": 2023,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/辽宁/2023年辽宁高考历史（公开转载版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 1159046,
+          "sizeText": "1.11 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://cdn.gaokzx.com/zixunzhan/202310/897c5d98-6e4b-4053-a81f-31c9a012b2c1.pdf"
+        }
+      ]
+    },
+    {
+      "id": "江苏-2021年江苏卷",
+      "region": "江苏",
+      "regionFull": "江苏",
+      "title": "2021年江苏卷",
+      "year": 2021,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "试题转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/江苏/2021年江苏历史（试题转载版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 1503093,
+          "sizeText": "1.43 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://m.jszs.com/uploads/file/202312/05/1701770311665117.pdf"
+        }
+      ]
+    },
+    {
+      "id": "江苏-2022年江苏卷",
+      "region": "江苏",
+      "regionFull": "江苏",
+      "title": "2022年江苏卷",
+      "year": 2022,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "试题转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/江苏/2022年江苏历史（试题转载版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 1165055,
+          "sizeText": "1.11 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://m.jszs.com/uploads/file/202312/06/1701849199633124.pdf"
+        }
+      ]
+    },
+    {
+      "id": "江苏-2023年江苏卷",
+      "region": "江苏",
+      "regionFull": "江苏",
+      "title": "2023年江苏卷",
+      "year": 2023,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "网页整理版 · 1 张配图需联网",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/江苏/2023年江苏历史（网页整理版）.html",
+          "ext": "html",
+          "sizeBytes": 344081,
+          "sizeText": "336.0 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://zujuan.zxls.com/PaperList.aspx?id=18715"
+        }
+      ]
+    },
+    {
+      "id": "江苏-2024年江苏卷",
+      "region": "江苏",
+      "regionFull": "江苏",
+      "title": "2024年江苏卷",
+      "year": 2024,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "试题转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/江苏/2024年江苏历史（试题转载版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 396519,
+          "sizeText": "387.2 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://raw.githubusercontent.com/qingshuo/China-Gaokao-Papers-Collection/main/papers/2024/JS/%E5%8E%86%E5%8F%B2/%E6%B1%9F%E8%8B%8F%E5%8E%86%E5%8F%B2-%E8%AF%95%E9%A2%98-p.pdf"
+        }
+      ]
+    },
+    {
+      "id": "江苏-2025年江苏卷",
+      "region": "江苏",
+      "regionFull": "江苏",
+      "title": "2025年江苏卷",
+      "year": 2025,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "试题转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/江苏/2025年江苏历史（试题转载版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 578527,
+          "sizeText": "565.0 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://raw.githubusercontent.com/qingshuo/China-Gaokao-Papers-Collection/main/papers/2025/JS/%E5%8E%86%E5%8F%B2/2025%E5%B9%B4%E9%AB%98%E8%80%83%E6%B1%9F%E8%8B%8F%E5%8E%86%E5%8F%B2.pdf"
+        }
+      ]
+    },
+    {
+      "id": "江苏-2026年江苏卷",
+      "region": "江苏",
+      "regionFull": "江苏",
+      "title": "2026年江苏卷",
+      "year": 2026,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "试题整理版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/江苏/2026年江苏历史（试题整理版）.docx",
+          "ext": "docx",
+          "sizeBytes": 129922,
+          "sizeText": "126.9 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://kaosj.com/papers/2026/07/2026-gaokao-history-jiangsu-paper/"
+        }
+      ]
+    },
+    {
+      "id": "福建-2021年福建卷",
+      "region": "福建",
+      "regionFull": "福建",
+      "title": "2021年福建卷",
+      "year": 2021,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "试题图版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/福建/2021年福建历史（试题图版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 3136691,
+          "sizeText": "2.99 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://imgs.app.gaokaozhitongche.com/resource/pdf/paper/202305/20230531023634_ECheqa.pdf"
+        }
+      ]
+    },
+    {
+      "id": "福建-2022年福建卷",
+      "region": "福建",
+      "regionFull": "福建",
+      "title": "2022年福建卷",
+      "year": 2022,
+      "status": "部分题面",
+      "statusDetail": "部分题面",
+      "note": "网页整理版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/福建/2022年福建历史（网页整理版）.html",
+          "ext": "html",
+          "sizeBytes": 8797,
+          "sizeText": "8.6 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://www.yeyulingfeng.com/wendang/73506.html"
+        }
+      ]
+    },
+    {
+      "id": "福建-2023年福建卷",
+      "region": "福建",
+      "regionFull": "福建",
+      "title": "2023年福建卷",
+      "year": 2023,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "试题图版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/福建/2023年福建历史（试题图版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 7219875,
+          "sizeText": "6.89 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://imgs.app.gaokaozhitongche.com/resource/pdf/paper/202504/20250408074043_oi1Vx3.pdf"
+        }
+      ]
+    },
+    {
+      "id": "福建-2024年福建卷",
+      "region": "福建",
+      "regionFull": "福建",
+      "title": "2024年福建卷",
+      "year": 2024,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "试题图版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/福建/2024年福建历史（试题图版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 10575031,
+          "sizeText": "10.09 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://imgs.app.gaokaozhitongche.com/resource/pdf/paper/202410/20241023084746_IDj9Gy.pdf"
+        }
+      ]
+    },
+    {
+      "id": "福建-2025年福建卷",
+      "region": "福建",
+      "regionFull": "福建",
+      "title": "2025年福建卷",
+      "year": 2025,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "试题图版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/福建/2025年福建历史（试题图版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 1959258,
+          "sizeText": "1.87 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://imgs.app.gaokaozhitongche.com/resource/pdf/paper/202506/20250615074309_UPegVc.pdf"
+        }
+      ]
+    },
+    {
+      "id": "福建-2026年福建卷",
+      "region": "福建",
+      "regionFull": "福建",
+      "title": "2026年福建卷",
+      "year": 2026,
+      "status": "部分题面",
+      "statusDetail": "部分题面",
+      "note": "全题网页整理稿，配图已离线内嵌（题面来源尚待互校）",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/福建/2026年福建历史（网页整理版）.html",
+          "ext": "html",
+          "sizeBytes": 85908,
+          "sizeText": "83.9 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://www.yeyulingfeng.com/a/1160170.html"
+        }
+      ]
+    },
+    {
+      "id": "湖北-2021年湖北卷",
+      "region": "湖北",
+      "regionFull": "湖北",
+      "title": "2021年湖北卷",
+      "year": 2021,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "试题转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/湖北/2021年湖北历史（试题转载版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 6073263,
+          "sizeText": "5.79 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://cdn.zizzs.com/zixunzhan/202310/6c9050bf-44e5-43ab-84b4-515e0f7e4f18.pdf"
+        }
+      ]
+    },
+    {
+      "id": "湖北-2022年湖北卷",
+      "region": "湖北",
+      "regionFull": "湖北",
+      "title": "2022年湖北卷",
+      "year": 2022,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "试题图版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/湖北/2022年湖北历史（试题图版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 3932599,
+          "sizeText": "3.75 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://www.tthaoke.com/shijuan_74998.html"
+        }
+      ]
+    },
+    {
+      "id": "湖北-2023年湖北卷",
+      "region": "湖北",
+      "regionFull": "湖北",
+      "title": "2023年湖北卷",
+      "year": 2023,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "汇编节选",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/湖北/2023年湖北历史（汇编节选）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 694711,
+          "sizeText": "678.4 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://www.zxls.com/UploadFiles/2023/8/162023%E5%B9%B4%E9%AB%98%E8%80%83%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E5%8E%86%E5%8F%B2%E8%AF%95%E5%8D%B7%E6%B1%87%E6%80%BB%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89_2023829208.pdf#page=33"
+        }
+      ]
+    },
+    {
+      "id": "湖北-2024年湖北卷",
+      "region": "湖北",
+      "regionFull": "湖北",
+      "title": "2024年湖北卷",
+      "year": 2024,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "试题转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/湖北/2024年湖北历史（试题转载版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 836546,
+          "sizeText": "816.9 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://raw.githubusercontent.com/qingshuo/China-Gaokao-Papers-Collection/main/papers/2024/HB/%E5%8E%86%E5%8F%B2/%E6%B9%96%E5%8C%97%E5%8E%86%E5%8F%B2-%E8%AF%95%E9%A2%98-p.pdf"
+        }
+      ]
+    },
+    {
+      "id": "湖北-2025年湖北卷",
+      "region": "湖北",
+      "regionFull": "湖北",
+      "title": "2025年湖北卷",
+      "year": 2025,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "试题整理版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/湖北/2025年湖北历史（试题整理版）.docx",
+          "ext": "docx",
+          "sizeBytes": 39351,
+          "sizeText": "38.4 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://kaosj.com/papers/2025/07/2025-gaokao-history-hubei-paper/"
+        }
+      ]
+    },
+    {
+      "id": "湖北-2026年湖北卷",
+      "region": "湖北",
+      "regionFull": "湖北",
+      "title": "2026年湖北卷",
+      "year": 2026,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "试题整理版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/湖北/2026年湖北历史（试题整理版）.docx",
+          "ext": "docx",
+          "sizeBytes": 53665,
+          "sizeText": "52.4 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://kaosj.com/papers/2026/07/2026-gaokao-history-hubei-paper/"
+        }
+      ]
+    },
+    {
+      "id": "湖南-2021年湖南卷",
+      "region": "湖南",
+      "regionFull": "湖南",
+      "title": "2021年湖南卷",
+      "year": 2021,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "试题转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/湖南/2021年湖南历史（试题转载版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 752989,
+          "sizeText": "735.3 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://gaokao.eol.cn/shiti/zhenti/202107/W020220527537220751980.pdf"
+        }
+      ]
+    },
+    {
+      "id": "湖南-2022年湖南卷",
+      "region": "湖南",
+      "regionFull": "湖南",
+      "title": "2022年湖南卷",
+      "year": 2022,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "试题整理版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/湖南/2022年湖南历史（试题整理版）.docx",
+          "ext": "docx",
+          "sizeBytes": 328447,
+          "sizeText": "320.7 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://raw.githubusercontent.com/qingshuo/China-Gaokao-Papers-Collection/main/papers/2022/HN/%E5%8E%86%E5%8F%B2/%EF%BC%88%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86%E7%89%88%EF%BC%892022%E5%B9%B4%E6%96%B0%E9%AB%98%E8%80%83%E6%B9%96%E5%8D%97%E5%8E%86%E5%8F%B2%E9%AB%98%E8%80%83%E7%9C%9F%E9%A2%98%E6%96%87%E6%A1%A3%E7%89%88%EF%BC%88%E5%8E%9F%E5%8D%B7%EF%BC%89.docx"
+        }
+      ]
+    },
+    {
+      "id": "湖南-2023年湖南卷",
+      "region": "湖南",
+      "regionFull": "湖南",
+      "title": "2023年湖南卷",
+      "year": 2023,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "试题转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/湖南/2023年湖南历史（试题转载版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 2535520,
+          "sizeText": "2.42 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://cdn.gaokzx.com/zixunzhan/202403/e4487782-1122-40a5-b21e-c54a2713ef54.pdf"
+        }
+      ]
+    },
+    {
+      "id": "湖南-2024年湖南卷",
+      "region": "湖南",
+      "regionFull": "湖南",
+      "title": "2024年湖南卷",
+      "year": 2024,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "试题转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/湖南/2024年湖南历史（试题转载版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 530265,
+          "sizeText": "517.8 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://down.jiaoyuwu.com/m00/d6/a7/8efa455b5b9663c6b030249685d3084d.pdf"
+        }
+      ]
+    },
+    {
+      "id": "湖南-2025年湖南卷",
+      "region": "湖南",
+      "regionFull": "湖南",
+      "title": "2025年湖南卷",
+      "year": 2025,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "试题整理版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/湖南/2025年湖南历史（试题整理版）.docx",
+          "ext": "docx",
+          "sizeBytes": 37868,
+          "sizeText": "37.0 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://kaosj.com/papers/2025/07/2025-gaokao-history-hunan-paper/"
+        }
+      ]
+    },
+    {
+      "id": "湖南-2026年湖南卷",
+      "region": "湖南",
+      "regionFull": "湖南",
+      "title": "2026年湖南卷",
+      "year": 2026,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "试题整理版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/湖南/2026年湖南历史（试题整理版）.docx",
+          "ext": "docx",
+          "sizeBytes": 220484,
+          "sizeText": "215.3 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://kaosj.com/papers/2026/06/2026-hunan-gaokao-history-paper/"
+        }
+      ]
+    },
+    {
+      "id": "广东-2021年广东卷",
+      "region": "广东",
+      "regionFull": "广东",
+      "title": "2021年广东卷",
+      "year": 2021,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开整理版·题面",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/广东/2021年广东历史卷（公开整理版·题面）.docx",
+          "ext": "docx",
+          "sizeBytes": 45433,
+          "sizeText": "44.4 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://kaosj.com/papers/2021/06/2021-guangdong-gaokao-history-original/2021_%E9%AB%98%E8%80%83_%E5%8E%86%E5%8F%B2_%E5%B9%BF%E4%B8%9C_%E5%8E%9F%E5%8D%B7%E7%89%88%5Bkaosj.com%5D.docx"
+        }
+      ]
+    },
+    {
+      "id": "广东-2022年广东卷",
+      "region": "广东",
+      "regionFull": "广东",
+      "title": "2022年广东卷",
+      "year": 2022,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开整理版·题面",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/广东/2022年广东历史卷（公开整理版·题面）.docx",
+          "ext": "docx",
+          "sizeBytes": 61622,
+          "sizeText": "60.2 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://kaosj.com/papers/2022/06/2022-guangdong-gaokao-history-paper/2022_%E9%AB%98%E8%80%83_%E5%8E%86%E5%8F%B2_%E5%B9%BF%E4%B8%9C_%E5%8E%9F%E5%8D%B7%E7%89%88%5Bkaosj.com%5D.docx"
+        }
+      ]
+    },
+    {
+      "id": "广东-2023年广东卷",
+      "region": "广东",
+      "regionFull": "广东",
+      "title": "2023年广东卷",
+      "year": 2023,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开整理版·题面",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/广东/2023年广东历史卷（公开整理版·题面）.docx",
+          "ext": "docx",
+          "sizeBytes": 67193,
+          "sizeText": "65.6 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://kaosj.com/papers/2023/06/2023-guangdong-gaokao-history-paper/2023_%E9%AB%98%E8%80%83_%E5%8E%86%E5%8F%B2_%E5%B9%BF%E4%B8%9C_%E5%8E%9F%E5%8D%B7%E7%89%88%5Bkaosj.com%5D.docx"
+        }
+      ]
+    },
+    {
+      "id": "广东-2024年广东卷",
+      "region": "广东",
+      "regionFull": "广东",
+      "title": "2024年广东卷",
+      "year": 2024,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开整理版·题面与参考答案",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/广东/2024年广东历史卷（公开整理版·题面与参考答案）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 2390007,
+          "sizeText": "2.28 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://cdn.gaokzx.com/zixunzhan/17355444514022024%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.pdf"
+        }
+      ]
+    },
+    {
+      "id": "广东-2025年广东卷",
+      "region": "广东",
+      "regionFull": "广东",
+      "title": "2025年广东卷",
+      "year": 2025,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开整理版·题面",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/广东/2025年广东历史卷（公开整理版·题面）.docx",
+          "ext": "docx",
+          "sizeBytes": 66697,
+          "sizeText": "65.1 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://kaosj.com/papers/2025/06/2025-guangdong-gaokao-history-paper/2025_%E9%AB%98%E8%80%83_%E5%8E%86%E5%8F%B2_%E5%B9%BF%E4%B8%9C_%E5%8E%9F%E5%8D%B7%E7%89%88%5Bkaosj.com%5D.docx"
+        }
+      ]
+    },
+    {
+      "id": "广东-2026年广东卷",
+      "region": "广东",
+      "regionFull": "广东",
+      "title": "2026年广东卷",
+      "year": 2026,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开题面网页存档",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/广东/2026年广东历史卷（公开题面网页存档）.html",
+          "ext": "html",
+          "sizeBytes": 981905,
+          "sizeText": "958.9 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://zujuan.zxls.com/PaperList.aspx?id=29374"
+        }
+      ]
+    },
+    {
+      "id": "重庆-2021年重庆卷",
+      "region": "重庆",
+      "regionFull": "重庆",
+      "title": "2021年重庆卷",
+      "year": 2021,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开整理版·题面",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/重庆/2021年重庆历史卷（公开整理版·题面）.docx",
+          "ext": "docx",
+          "sizeBytes": 71073,
+          "sizeText": "69.4 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://kaosj.com/papers/2021/06/2021-chongqing-gaokao-history-original/2021_%E9%AB%98%E8%80%83_%E5%8E%86%E5%8F%B2_%E9%87%8D%E5%BA%86_%E5%8E%9F%E5%8D%B7%E7%89%88%5Bkaosj.com%5D.docx"
+        }
+      ]
+    },
+    {
+      "id": "重庆-2022年重庆卷",
+      "region": "重庆",
+      "regionFull": "重庆",
+      "title": "2022年重庆卷",
+      "year": 2022,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开整理版·题面",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/重庆/2022年重庆历史卷（公开整理版·题面）.docx",
+          "ext": "docx",
+          "sizeBytes": 109761,
+          "sizeText": "107.2 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://kaosj.com/papers/2022/06/2022-chongqing-gaokao-history-paper/2022_%E9%AB%98%E8%80%83_%E5%8E%86%E5%8F%B2_%E9%87%8D%E5%BA%86_%E5%8E%9F%E5%8D%B7%E7%89%88%5Bkaosj.com%5D.docx"
+        }
+      ]
+    },
+    {
+      "id": "重庆-2023年重庆卷",
+      "region": "重庆",
+      "regionFull": "重庆",
+      "title": "2023年重庆卷",
+      "year": 2023,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开整理版·题面",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/重庆/2023年重庆历史卷（公开整理版·题面）.docx",
+          "ext": "docx",
+          "sizeBytes": 381102,
+          "sizeText": "372.2 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://kaosj.com/papers/2023/06/2023-chongqing-gaokao-history-paper/2023_%E9%AB%98%E8%80%83_%E5%8E%86%E5%8F%B2_%E9%87%8D%E5%BA%86_%E5%8E%9F%E5%8D%B7%E7%89%88%5Bkaosj.com%5D.docx"
+        }
+      ]
+    },
+    {
+      "id": "重庆-2024年重庆卷",
+      "region": "重庆",
+      "regionFull": "重庆",
+      "title": "2024年重庆卷",
+      "year": 2024,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开整理版·题面与参考答案",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/重庆/2024年重庆历史卷（公开整理版·题面与参考答案）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 2634121,
+          "sizeText": "2.51 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://cdn.gaokzx.com/zixunzhan/17373518219362024%E9%87%8D%E5%BA%86%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.pdf"
+        }
+      ]
+    },
+    {
+      "id": "重庆-2025年重庆卷",
+      "region": "重庆",
+      "regionFull": "重庆",
+      "title": "2025年重庆卷",
+      "year": 2025,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开整理版·题面",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/重庆/2025年重庆历史卷（公开整理版·题面）.docx",
+          "ext": "docx",
+          "sizeBytes": 42963,
+          "sizeText": "42.0 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://kaosj.com/papers/2025/07/2025-gaokao-history-chongqing-paper/2025_%E9%AB%98%E8%80%83_%E5%8E%86%E5%8F%B2_%E9%87%8D%E5%BA%86%E5%8D%B7_%E5%8E%9F%E5%8D%B7%E7%89%88%5Bkaosj.com%5D.docx"
+        }
+      ]
+    },
+    {
+      "id": "重庆-2026年重庆卷",
+      "region": "重庆",
+      "regionFull": "重庆",
+      "title": "2026年重庆卷",
+      "year": 2026,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开图页版·全题面",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/重庆/2026年重庆历史卷（公开图页版·全题面）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 3239815,
+          "sizeText": "3.09 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://www.gkti.cn/htm/%E6%96%87%E7%A7%91HTML-1/%E5%8E%86%E5%8F%B2/2026%E5%B9%B4%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2%E5%8D%B7%EF%BC%88%E9%87%8D%E5%BA%86%EF%BC%89_%E5%8E%86%E5%8F%B2_00270_2cfa0e56.htm"
+        }
+      ]
+    },
+    {
+      "id": "安徽-2024年安徽卷",
+      "region": "安徽",
+      "regionFull": "安徽",
+      "title": "2024年安徽卷",
+      "year": 2024,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "试题转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/安徽/2024年安徽历史（试题转载版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 744782,
+          "sizeText": "727.3 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://raw.githubusercontent.com/qingshuo/China-Gaokao-Papers-Collection/main/papers/2024/AH/%E5%8E%86%E5%8F%B2/%E5%AE%89%E5%BE%BD%E5%8E%86%E5%8F%B2-%E8%AF%95%E9%A2%98-p.pdf"
+        }
+      ]
+    },
+    {
+      "id": "安徽-2025年安徽卷",
+      "region": "安徽",
+      "regionFull": "安徽",
+      "title": "2025年安徽卷",
+      "year": 2025,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "试题整理版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/安徽/2025年安徽历史（试题整理版）.docx",
+          "ext": "docx",
+          "sizeBytes": 27286,
+          "sizeText": "26.6 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://kaosj.com/papers/2025/07/2025-gaokao-history-anhui-paper/"
+        }
+      ]
+    },
+    {
+      "id": "安徽-2026年安徽卷",
+      "region": "安徽",
+      "regionFull": "安徽",
+      "title": "2026年安徽卷",
+      "year": 2026,
+      "status": "待补",
+      "statusDetail": "待补",
+      "note": "公开资料尚未找到可核的完整题面",
+      "files": [],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://www.zxls.com/zt/gslngkzthb"
+        }
+      ]
+    },
+    {
+      "id": "江西-2024年江西卷",
+      "region": "江西",
+      "regionFull": "江西",
+      "title": "2024年江西卷",
+      "year": 2024,
+      "status": "待补",
+      "statusDetail": "待补（已补充第1–2题与第17–18题完整材料设问）",
+      "note": "公开节选整理",
+      "files": [
+        {
+          "label": "节选整理",
+          "path": "原卷/江西/2024年江西历史（公开节选整理版）.md",
+          "ext": "md",
+          "sizeBytes": 4083,
+          "sizeText": "4.0 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://www.renrendoc.com/paper/350948619.html"
+        }
+      ]
+    },
+    {
+      "id": "江西-2025年江西卷",
+      "region": "江西",
+      "regionFull": "江西",
+      "title": "2025年江西卷",
+      "year": 2025,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "网页整理版 · 1 张配图需联网",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/江西/2025年江西历史（网页整理版）.html",
+          "ext": "html",
+          "sizeBytes": 631007,
+          "sizeText": "616.2 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://zujuan.zxls.com/PaperList.aspx?id=25397"
+        }
+      ]
+    },
+    {
+      "id": "江西-2026年江西卷",
+      "region": "江西",
+      "regionFull": "江西",
+      "title": "2026年江西卷",
+      "year": 2026,
+      "status": "部分题面",
+      "statusDetail": "部分题面",
+      "note": "网页整理版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/江西/2026年江西历史（网页整理版）.html",
+          "ext": "html",
+          "sizeBytes": 167775,
+          "sizeText": "163.8 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://zujuan.zxls.com/PaperList.aspx?id=30472"
+        }
+      ]
+    },
+    {
+      "id": "甘肃-2024年甘肃卷",
+      "region": "甘肃",
+      "regionFull": "甘肃",
+      "title": "2024年甘肃卷",
+      "year": 2024,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/甘肃/2024年甘肃高考历史（公开转载版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 847801,
+          "sizeText": "827.9 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://raw.githubusercontent.com/qingshuo/China-Gaokao-Papers-Collection/main/papers/2024/GS/%E5%8E%86%E5%8F%B2/%E7%94%98%E8%82%83%E5%8E%86%E5%8F%B2-%E8%AF%95%E9%A2%98-p.pdf"
+        }
+      ]
+    },
+    {
+      "id": "甘肃-2025年甘肃卷",
+      "region": "甘肃",
+      "regionFull": "甘肃",
+      "title": "2025年甘肃卷",
+      "year": 2025,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "整理版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/甘肃/2025年甘肃高考历史（整理版）.docx",
+          "ext": "docx",
+          "sizeBytes": 32763,
+          "sizeText": "32.0 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://kaosj.com/papers/2025/07/2025-gaokao-history-gansu-paper/"
+        }
+      ]
+    },
+    {
+      "id": "甘肃-2026年甘肃卷",
+      "region": "甘肃",
+      "regionFull": "甘肃",
+      "title": "2026年甘肃卷",
+      "year": 2026,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "网页整理版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/甘肃/2026年甘肃高考历史（网页整理版）.html",
+          "ext": "html",
+          "sizeBytes": 136863,
+          "sizeText": "133.7 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://sjds.net/820864.html"
+        }
+      ]
+    },
+    {
+      "id": "广西-2024年广西卷",
+      "region": "广西",
+      "regionFull": "广西",
+      "title": "2024年广西卷",
+      "year": 2024,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开整理版·题面与参考答案",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/广西/2024年广西历史卷（公开整理版·题面与参考答案）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 3114638,
+          "sizeText": "2.97 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://imgs.app.gaokaozhitongche.com/resource/pdf/paper/202409/20240929041232_7zeQsd.pdf"
+        }
+      ]
+    },
+    {
+      "id": "广西-2025年广西卷",
+      "region": "广西",
+      "regionFull": "广西",
+      "title": "2025年广西卷",
+      "year": 2025,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开核校题面网页存档",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/广西/2025年广西历史卷（公开核校题面网页存档）.html",
+          "ext": "html",
+          "sizeBytes": 110415,
+          "sizeText": "107.8 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://zujuan.zxls.com/PaperList.aspx?id=25653"
+        }
+      ]
+    },
+    {
+      "id": "广西-2026年广西卷",
+      "region": "广西",
+      "regionFull": "广西",
+      "title": "2026年广西卷",
+      "year": 2026,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开题面网页存档",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/广西/2026年广西历史卷（公开题面网页存档）.html",
+          "ext": "html",
+          "sizeBytes": 382549,
+          "sizeText": "373.6 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://zujuan.zxls.com/PaperList.aspx?id=30333"
+        }
+      ]
+    },
+    {
+      "id": "贵州-2024年贵州卷",
+      "region": "贵州",
+      "regionFull": "贵州",
+      "title": "2024年贵州卷",
+      "year": 2024,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开整理版·题面与参考答案",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/贵州/2024年贵州历史卷（公开整理版·题面与参考答案）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 2571454,
+          "sizeText": "2.45 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://cdn.gaokzx.com/zixunzhan/17391762483882024%E8%B4%B5%E5%B7%9E%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.pdf"
+        }
+      ]
+    },
+    {
+      "id": "贵州-2025年贵州卷",
+      "region": "贵州",
+      "regionFull": "贵州",
+      "title": "2025年贵州卷",
+      "year": 2025,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开题面网页存档",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/贵州/2025年贵州历史卷（公开题面网页存档）.html",
+          "ext": "html",
+          "sizeBytes": 1213046,
+          "sizeText": "1.16 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://zujuan.zxls.com/PaperList.aspx?id=28011"
+        }
+      ]
+    },
+    {
+      "id": "贵州-2026年贵州卷",
+      "region": "贵州",
+      "regionFull": "贵州",
+      "title": "2026年贵州卷",
+      "year": 2026,
+      "status": "待补",
+      "statusDetail": "待补",
+      "note": "待补原卷",
+      "files": [],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://www.zxls.com/generation/2026/11/11/784292.html"
+        }
+      ]
+    },
+    {
+      "id": "河南-2025年河南卷",
+      "region": "河南",
+      "regionFull": "河南",
+      "title": "2025年河南卷",
+      "year": 2025,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "试题整理版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/河南/2025年河南历史（试题整理版）.docx",
+          "ext": "docx",
+          "sizeBytes": 45877,
+          "sizeText": "44.8 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://kaosj.com/papers/2025/07/2025-gaokao-history-henan-paper/"
+        }
+      ]
+    },
+    {
+      "id": "河南-2026年河南卷",
+      "region": "河南",
+      "regionFull": "河南",
+      "title": "2026年河南卷",
+      "year": 2026,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "网页整理版，配图已离线内嵌",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/河南/2026年河南历史（网页整理版）.html",
+          "ext": "html",
+          "sizeBytes": 128662,
+          "sizeText": "125.6 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://www.yeyulingfeng.com/a/1115064.html"
+        }
+      ]
+    },
+    {
+      "id": "四川-2025年四川卷",
+      "region": "四川",
+      "regionFull": "四川",
+      "title": "2025年四川卷",
+      "year": 2025,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开核校题面网页存档",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/四川/2025年四川历史卷（公开核校题面网页存档）.html",
+          "ext": "html",
+          "sizeBytes": 265256,
+          "sizeText": "259.0 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://zujuan.zxls.com/PaperList.aspx?id=24586"
+        }
+      ]
+    },
+    {
+      "id": "四川-2026年四川卷",
+      "region": "四川",
+      "regionFull": "四川",
+      "title": "2026年四川卷",
+      "year": 2026,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开核校题面网页存档",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/四川/2026年四川历史卷（公开核校题面网页存档）.html",
+          "ext": "html",
+          "sizeBytes": 64756,
+          "sizeText": "63.2 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://zujuan.zxls.com/PaperList.aspx?id=30574"
+        }
+      ]
+    },
+    {
+      "id": "云南-2025年云南卷",
+      "region": "云南",
+      "regionFull": "云南",
+      "title": "2025年云南卷",
+      "year": 2025,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开整理版·题面",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/云南/2025年云南历史卷（公开整理版·题面）.docx",
+          "ext": "docx",
+          "sizeBytes": 58360,
+          "sizeText": "57.0 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://kaosj.com/papers/2025/07/2025-gaokao-history-yunnan-paper/2025_%E9%AB%98%E8%80%83_%E5%8E%86%E5%8F%B2_%E4%BA%91%E5%8D%97%E5%8D%B7_%E5%8E%9F%E5%8D%B7%E7%89%88%5Bkaosj.com%5D.docx"
+        }
+      ]
+    },
+    {
+      "id": "云南-2026年云南卷",
+      "region": "云南",
+      "regionFull": "云南",
+      "title": "2026年云南卷",
+      "year": 2026,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开整理版·题面",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/云南/2026年云南历史卷（公开整理版·题面）.docx",
+          "ext": "docx",
+          "sizeBytes": 21009,
+          "sizeText": "20.5 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://kaosj.com/papers/2026/06/2026-yunnan-gaokao-history-paper/2026_%E9%AB%98%E8%80%83_%E5%8E%86%E5%8F%B2_%E4%BA%91%E5%8D%97_%E5%8E%9F%E5%8D%B7%E7%89%88%5Bkaosj.com%5D.docx"
+        }
+      ]
+    },
+    {
+      "id": "浙江-2015年10月浙江卷",
+      "region": "浙江",
+      "regionFull": "浙江",
+      "title": "2015年10月浙江卷",
+      "year": 2015,
+      "status": "部分题面",
+      "statusDetail": "部分题面",
+      "note": "公开文字稿，图表缺失",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/浙江/2015年10月浙江历史选考.html",
+          "ext": "html",
+          "sizeBytes": 16641,
+          "sizeText": "16.3 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://www.yeyulingfeng.com/wendang/343638.html"
+        }
+      ]
+    },
+    {
+      "id": "浙江-2016年4月浙江卷",
+      "region": "浙江",
+      "regionFull": "浙江",
+      "title": "2016年4月浙江卷",
+      "year": 2016,
+      "status": "部分题面",
+      "statusDetail": "部分题面",
+      "note": "公开文字稿，图表缺失",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/浙江/2016年4月浙江历史选考.html",
+          "ext": "html",
+          "sizeBytes": 40566,
+          "sizeText": "39.6 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://www.yeyulingfeng.com/wendang/39193.html"
+        }
+      ]
+    },
+    {
+      "id": "浙江-2016年10月浙江卷",
+      "region": "浙江",
+      "regionFull": "浙江",
+      "title": "2016年10月浙江卷",
+      "year": 2016,
+      "status": "部分题面",
+      "statusDetail": "部分题面",
+      "note": "公开文字稿，图表缺失",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/浙江/2016年10月浙江历史选考.html",
+          "ext": "html",
+          "sizeBytes": 18198,
+          "sizeText": "17.8 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://www.yeyulingfeng.com/wendang/344458.html"
+        }
+      ]
+    },
+    {
+      "id": "浙江-2017年4月浙江卷",
+      "region": "浙江",
+      "regionFull": "浙江",
+      "title": "2017年4月浙江卷",
+      "year": 2017,
+      "status": "部分题面",
+      "statusDetail": "部分题面",
+      "note": "公开文字稿，图表缺失",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/浙江/2017年4月浙江历史选考.html",
+          "ext": "html",
+          "sizeBytes": 23708,
+          "sizeText": "23.2 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://www.yeyulingfeng.com/wendang/91389444.html"
+        }
+      ]
+    },
+    {
+      "id": "浙江-2017年11月浙江卷",
+      "region": "浙江",
+      "regionFull": "浙江",
+      "title": "2017年11月浙江卷",
+      "year": 2017,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开组卷整理版，图文齐全",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/浙江/2017年11月浙江历史选考.html",
+          "ext": "html",
+          "sizeBytes": 2631673,
+          "sizeText": "2.51 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://zujuan.zxls.com/PaperList.aspx?id=8333"
+        }
+      ]
+    },
+    {
+      "id": "浙江-2018年4月浙江卷",
+      "region": "浙江",
+      "regionFull": "浙江",
+      "title": "2018年4月浙江卷",
+      "year": 2018,
+      "status": "部分题面",
+      "statusDetail": "部分题面",
+      "note": "公开文字稿，图表缺失",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/浙江/2018年4月浙江历史选考.html",
+          "ext": "html",
+          "sizeBytes": 36280,
+          "sizeText": "35.4 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://www.yeyulingfeng.com/wendang/45864.html"
+        }
+      ]
+    },
+    {
+      "id": "浙江-2018年11月浙江卷",
+      "region": "浙江",
+      "regionFull": "浙江",
+      "title": "2018年11月浙江卷",
+      "year": 2018,
+      "status": "部分题面",
+      "statusDetail": "部分题面",
+      "note": "公开文字稿，图表缺失",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/浙江/2018年11月浙江历史选考.html",
+          "ext": "html",
+          "sizeBytes": 36957,
+          "sizeText": "36.1 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://www.yeyulingfeng.com/wendang/45832.html"
+        }
+      ]
+    },
+    {
+      "id": "浙江-2019年4月浙江卷",
+      "region": "浙江",
+      "regionFull": "浙江",
+      "title": "2019年4月浙江卷",
+      "year": 2019,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "转载 PDF",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/浙江/2019年4月浙江历史选考.pdf",
+          "ext": "pdf",
+          "sizeBytes": 1131568,
+          "sizeText": "1.08 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://www.zizzs.com/c/202001/41688.html"
+        }
+      ]
+    },
+    {
+      "id": "浙江-2020年1月浙江卷",
+      "region": "浙江",
+      "regionFull": "浙江",
+      "title": "2020年1月浙江卷",
+      "year": 2020,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开组卷整理版，图文齐全",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/浙江/2020年1月浙江历史选考.html",
+          "ext": "html",
+          "sizeBytes": 584615,
+          "sizeText": "570.9 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://zujuan.zxls.com/PaperList.aspx?id=10372"
+        }
+      ]
+    },
+    {
+      "id": "浙江-2020年7月浙江卷",
+      "region": "浙江",
+      "regionFull": "浙江",
+      "title": "2020年7月浙江卷",
+      "year": 2020,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "教育在线转载题面，附图表",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/浙江/2020年7月浙江历史选考.docx",
+          "ext": "docx",
+          "sizeBytes": 93201,
+          "sizeText": "91.0 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://gaokao.eol.cn/shiti/zhenti/202007/t20200710_1737829.shtml"
+        }
+      ]
+    },
+    {
+      "id": "浙江-2021年1月浙江卷",
+      "region": "浙江",
+      "regionFull": "浙江",
+      "title": "2021年1月浙江卷",
+      "year": 2021,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "网页整理版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/浙江/2021年浙江1月历史（网页整理版）.html",
+          "ext": "html",
+          "sizeBytes": 1011520,
+          "sizeText": "987.8 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://zujuan.zxls.com/PaperList.aspx?id=11572"
+        }
+      ]
+    },
+    {
+      "id": "浙江-2021年6月浙江卷",
+      "region": "浙江",
+      "regionFull": "浙江",
+      "title": "2021年6月浙江卷",
+      "year": 2021,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "试题转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/浙江/2021年浙江6月历史（试题转载版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 1365109,
+          "sizeText": "1.30 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://cdn.gaokzx.com/zixunzhan/202403/7daf27c3-7467-4122-b582-c6ad4e078e5f.pdf"
+        }
+      ]
+    },
+    {
+      "id": "浙江-2022年1月浙江卷",
+      "region": "浙江",
+      "regionFull": "浙江",
+      "title": "2022年1月浙江卷",
+      "year": 2022,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "网页整理版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/浙江/2022年浙江1月历史（网页整理版）.html",
+          "ext": "html",
+          "sizeBytes": 1131371,
+          "sizeText": "1.08 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://zujuan.zxls.com/PaperList.aspx?id=13434"
+        }
+      ]
+    },
+    {
+      "id": "浙江-2022年6月浙江卷",
+      "region": "浙江",
+      "regionFull": "浙江",
+      "title": "2022年6月浙江卷",
+      "year": 2022,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "试题整理版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/浙江/2022年浙江6月历史（试题整理版）.docx",
+          "ext": "docx",
+          "sizeBytes": 179314,
+          "sizeText": "175.1 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://raw.githubusercontent.com/qingshuo/China-Gaokao-Papers-Collection/main/papers/2022/ZJ/%E5%8E%86%E5%8F%B2/%EF%BC%88%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86%E7%89%88%EF%BC%892022%E5%B9%B46%E6%9C%88%E6%B5%99%E6%B1%9F%E7%9C%81%E6%99%AE%E9%80%9A%E9%AB%98%E6%A0%A1%E6%8B%9B%E7%94%9F%E9%80%89%E8%80%83%E5%8E%86%E5%8F%B2%E8%AF%95%E9%A2%98%EF%BC%88%E5%8E%9F%E5%8D%B7%EF%BC%89.docx"
+        }
+      ]
+    },
+    {
+      "id": "浙江-2023年1月浙江卷",
+      "region": "浙江",
+      "regionFull": "浙江",
+      "title": "2023年1月浙江卷",
+      "year": 2023,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "网页整理版 · 2 张配图需联网",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/浙江/2023年浙江1月历史（网页整理版）.html",
+          "ext": "html",
+          "sizeBytes": 447402,
+          "sizeText": "436.9 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://zujuan.zxls.com/PaperList.aspx?id=16151"
+        }
+      ]
+    },
+    {
+      "id": "浙江-2023年6月浙江卷",
+      "region": "浙江",
+      "regionFull": "浙江",
+      "title": "2023年6月浙江卷",
+      "year": 2023,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "试题转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/浙江/2023年浙江6月历史（试题转载版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 2690238,
+          "sizeText": "2.57 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://cdn.gaokzx.com/zixunzhan/202403/9130eece-437b-4b83-a1a9-67f887e6c701.pdf"
+        }
+      ]
+    },
+    {
+      "id": "浙江-2024年1月浙江卷",
+      "region": "浙江",
+      "regionFull": "浙江",
+      "title": "2024年1月浙江卷",
+      "year": 2024,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "试题转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/浙江/2024年浙江1月历史（试题转载版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 1021922,
+          "sizeText": "998.0 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://raw.githubusercontent.com/qingshuo/China-Gaokao-Papers-Collection/main/papers/2024/ZJ/%E5%8E%86%E5%8F%B2/%E6%B5%99%E6%B1%9F%E5%8E%86%E5%8F%B2-1%E6%9C%88-%E8%AF%95%E9%A2%98-p.pdf"
+        }
+      ]
+    },
+    {
+      "id": "浙江-2024年6月浙江卷",
+      "region": "浙江",
+      "regionFull": "浙江",
+      "title": "2024年6月浙江卷",
+      "year": 2024,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "试题转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/浙江/2024年浙江6月历史（试题转载版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 2566087,
+          "sizeText": "2.45 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://cdn.gaokzx.com/17230218742172024%E6%B5%99%E6%B1%9F%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.pdf"
+        }
+      ]
+    },
+    {
+      "id": "浙江-2025年1月浙江卷",
+      "region": "浙江",
+      "regionFull": "浙江",
+      "title": "2025年1月浙江卷",
+      "year": 2025,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "网页整理版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/浙江/2025年浙江1月历史（网页整理版）.html",
+          "ext": "html",
+          "sizeBytes": 16041,
+          "sizeText": "15.7 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://www.yeyulingfeng.com/wendang/91403463.html"
+        }
+      ]
+    },
+    {
+      "id": "浙江-2025年6月浙江卷",
+      "region": "浙江",
+      "regionFull": "浙江",
+      "title": "2025年6月浙江卷",
+      "year": 2025,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "网页整理版 · 3 张配图需联网",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/浙江/2025年浙江6月历史（网页整理版）.html",
+          "ext": "html",
+          "sizeBytes": 528640,
+          "sizeText": "516.2 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://zujuan.zxls.com/PaperList.aspx?id=25893"
+        }
+      ]
+    },
+    {
+      "id": "浙江-2026年1月浙江卷",
+      "region": "浙江",
+      "regionFull": "浙江",
+      "title": "2026年1月浙江卷",
+      "year": 2026,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "网页整理版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/浙江/2026年浙江1月历史（网页整理版）.html",
+          "ext": "html",
+          "sizeBytes": 853807,
+          "sizeText": "833.8 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://zujuan.zxls.com/PaperList.aspx?id=27282"
+        }
+      ]
+    },
+    {
+      "id": "浙江-2026年6月浙江卷",
+      "region": "浙江",
+      "regionFull": "浙江",
+      "title": "2026年6月浙江卷",
+      "year": 2026,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "试题整理版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/浙江/2026年浙江6月历史（试题整理版）.docx",
+          "ext": "docx",
+          "sizeBytes": 80265,
+          "sizeText": "78.4 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://kaosj.com/papers/2026/07/2026-gaokao-history-zhejiang-paper/"
+        }
+      ]
+    },
+    {
+      "id": "辽吉黑-2024年辽吉黑卷",
+      "region": "辽吉黑",
+      "regionFull": "辽吉黑（辽宁、吉林、黑龙江共用）",
+      "title": "2024年辽吉黑卷",
+      "year": 2024,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/辽吉黑/2024年辽吉黑高考历史（公开转载版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 3566790,
+          "sizeText": "3.40 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://imgs.app.gaokaozhitongche.com/resource/pdf/paper/202406/20240612103028_aTHodi.pdf"
+        }
+      ]
+    },
+    {
+      "id": "黑吉辽蒙-2025年黑吉辽蒙卷",
+      "region": "黑吉辽蒙",
+      "regionFull": "黑吉辽蒙（黑龙江、吉林、辽宁、内蒙古共用）",
+      "title": "2025年黑吉辽蒙卷",
+      "year": 2025,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/黑吉辽蒙/2025年黑吉辽蒙高考历史（公开转载版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 481575,
+          "sizeText": "470.3 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://www.jhgk.cn/upload/file/20250611/1749607028991051628.pdf"
+        }
+      ]
+    },
+    {
+      "id": "黑吉辽蒙-2026年黑吉辽蒙卷",
+      "region": "黑吉辽蒙",
+      "regionFull": "黑吉辽蒙（黑龙江、吉林、辽宁、内蒙古共用）",
+      "title": "2026年黑吉辽蒙卷",
+      "year": 2026,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "网页整理版 · 1 张配图需联网",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/黑吉辽蒙/2026年黑吉辽蒙高考历史（网页整理版）.html",
+          "ext": "html",
+          "sizeBytes": 433406,
+          "sizeText": "423.2 KB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://zujuan.zxls.com/paperlist.aspx?id=29378"
+        }
+      ]
+    },
+    {
+      "id": "陕晋青宁-2025年陕晋青宁卷",
+      "region": "陕晋青宁",
+      "regionFull": "陕晋青宁（陕西、山西、青海、宁夏共用）",
+      "title": "2025年陕晋青宁卷",
+      "year": 2025,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开转载版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/陕晋青宁/2025年陕晋青宁高考历史（公开转载版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 1176812,
+          "sizeText": "1.12 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://www.jhgk.cn/upload/file/20250616/1750064460284081317.pdf"
+        }
+      ]
+    },
+    {
+      "id": "陕晋青宁-2026年陕晋青宁卷",
+      "region": "陕晋青宁",
+      "regionFull": "陕晋青宁（陕西、山西、青海、宁夏共用）",
+      "title": "2026年陕晋青宁卷",
+      "year": 2026,
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "网页整理版",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/陕晋青宁/2026年陕晋青宁高考历史（网页整理版）.html",
+          "ext": "html",
+          "sizeBytes": 1283363,
+          "sizeText": "1.22 MB",
+          "exists": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://zujuan.zxls.com/PaperList.aspx?id=29372"
+        }
+      ]
+    }
+  ],
+  "top20": [
+    {
+      "rank": 1,
+      "title": "2023年北京卷",
+      "score": 93.8,
+      "dimensions": "考查布局 A+ · 史料运用 S+ · 历史推理 S+ · 设问质量 S · 任务梯度 A+ · 开放论证 S",
+      "comment": "第17题对读姚锡光记述、参战者马吉芬回忆与致远舰水下考古报告，辨析能否支持鱼雷击沉说并重建经过，史料互证与批判推理达标杆上限。第18题用15—18世纪史实评析欧洲进入现代的两种分期，第2题从汉简与粮仓信息推断汉代邮传与边疆治理，全卷设问精准。",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/北京/2023年北京高考历史（公开转载版）.pdf",
+          "ext": "pdf"
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://raw.githubusercontent.com/qingshuo/China-Gaokao-Papers-Collection/main/papers/2023/BJ/%E5%8E%86%E5%8F%B2/%E5%8C%97%E4%BA%AC%E5%8E%86%E5%8F%B2-%E8%AF%95%E9%A2%98-p.pdf"
+        }
+      ],
+      "radarImage": "雷达图/TOP1_2023北京卷.png"
+    },
+    {
+      "rank": 2,
+      "title": "2023年湖南卷",
+      "score": 91.4,
+      "dimensions": "考查布局 A+ · 史料运用 S+ · 历史推理 S · 设问质量 A+ · 任务梯度 A+ · 开放论证 S",
+      "comment": "第17题并读敦煌户籍残卷（排除上柱国户）与白居易、柳宗元对两税法的评论追问制度执行。第18题呈现实业家、知识界、妇女界立场及女工置身事外。第19题让史诗、法典与陶罐有机酸化学分析跨学科互证再自拟论题，第18题单问跨度略宽。",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/湖南/2023年湖南历史（试题转载版）.pdf",
+          "ext": "pdf"
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://cdn.gaokzx.com/zixunzhan/202403/e4487782-1122-40a5-b21e-c54a2713ef54.pdf"
+        }
+      ],
+      "radarImage": "雷达图/TOP2_2023湖南卷.png"
+    },
+    {
+      "rank": 3,
+      "title": "2024年山东卷",
+      "score": 89.5,
+      "dimensions": "考查布局 S · 史料运用 S · 历史推理 S · 设问质量 A+ · 任务梯度 A+ · 开放论证 A+",
+      "comment": "全卷古今中外与图文数表布局均衡，选择题思维密度极高。第17题从1936年儿童杂志的鸦片战争叙述先推知读者印象，再按近代性与世界史视角重构书写。第18题用上海工业统计写短文。第19题以非洲出口数据、法国军事存在与后殖民话语追问“真正的解放”。",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/山东/2024年山东历史（备课存档题面及答案）.pdf",
+          "ext": "pdf"
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://raw.githubusercontent.com/qingshuo/China-Gaokao-Papers-Collection/main/papers/2024/SD/%E5%8E%86%E5%8F%B2/%E5%B1%B1%E4%B8%9C%E5%8E%86%E5%8F%B2-%E8%AF%95%E9%A2%98-p.pdf"
+        }
+      ],
+      "radarImage": "雷达图/TOP3_2022北京卷.png"
+    },
+    {
+      "rank": 4,
+      "title": "2022年北京卷",
+      "score": 89.0,
+      "dimensions": "考查布局 A · 史料运用 S · 历史推理 A+ · 设问质量 S · 任务梯度 A · 开放论证 S+",
+      "comment": "第20题列出16条档案报刊与中外论著目录，要求先分类史料再选题说明意义、拟写研究提纲并筛选资料，开放论证与学术训练感极强。第18题据年表、演讲与宪法释读启蒙思想在拉美的发展，第19题比较明清军费财政结构，第17题略偏常规阐述。",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/北京/2022年北京高考历史（公开转载版）.pdf",
+          "ext": "pdf"
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://raw.githubusercontent.com/qingshuo/China-Gaokao-Papers-Collection/main/papers/2022/BJ/%E5%8E%86%E5%8F%B2/%E5%8C%97%E4%BA%AC%E5%8E%86%E5%8F%B2-%E8%AF%95%E9%A2%98-p.pdf"
+        }
+      ],
+      "radarImage": "雷达图/TOP4_2024海南卷.png"
+    },
+    {
+      "rank": 5,
+      "title": "2024年海南卷",
+      "score": 86.2,
+      "dimensions": "考查布局 A+ · 史料运用 A+ · 历史推理 A+ · 设问质量 A · 任务梯度 A+ · 开放论证 S",
+      "comment": "第19题任选张荫麟通史选材五标准与历史时段独立撰写历史段落，史学方法迁移立意突出。第16题比较秦汉乡里簿籍、敦煌契约与徽州文书功能与史料价值，第17题批判技术单因论。第17、18题以二手论著摘编为主且18(2)设问偏泛。",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/海南/2024年海南历史卷（公开整理版·题面与参考答案）.pdf",
+          "ext": "pdf"
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://imgs.app.gaokaozhitongche.com/resource/pdf/paper/202410/20241016022356_ASvRYF.pdf"
+        }
+      ],
+      "radarImage": "雷达图/TOP5_2024山东卷.png"
+    },
+    {
+      "rank": 6,
+      "title": "2023年广东卷",
+      "score": 87.1,
+      "dimensions": "考查布局 A · 史料运用 S · 历史推理 S · 设问质量 A · 任务梯度 A · 开放论证 S",
+      "comment": "第1题判断哪条文献或金文最适合支持西周王权干预诸侯内政。第18题从墨美经济数据出发分析保护政策的阶段性作用。第19题按自选视角重分中华文明史。第20题允许接受或替换中英早期工厂创办者差异的主要解释。",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/广东/2023年广东历史卷（公开整理版·题面）.docx",
+          "ext": "docx"
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://kaosj.com/papers/2023/06/2023-guangdong-gaokao-history-paper/2023_%E9%AB%98%E8%80%83_%E5%8E%86%E5%8F%B2_%E5%B9%BF%E4%B8%9C_%E5%8E%9F%E5%8D%B7%E7%89%88%5Bkaosj.com%5D.docx"
+        }
+      ],
+      "radarImage": ""
+    },
+    {
+      "rank": 7,
+      "title": "2022年山东卷",
+      "score": 87.1,
+      "dimensions": "考查布局 A · 史料运用 S · 历史推理 S · 设问质量 A · 任务梯度 A · 开放论证 S",
+      "comment": "第17题围绕李超求学病亡引发的舆论，要求辨识胡适、梁漱溟与陈独秀的不同立场并论述女子教育与出路。第18题解读1952年《工人新村》宣传画。第19题分析两张文明史地图的制图意图，再设计1850年前后的地图。",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/山东/2022年山东历史（试题转载版）.pdf",
+          "ext": "pdf"
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://gaokao.eol.cn/shiti/zhenti/202207/W020220704523839589357.pdf"
+        }
+      ],
+      "radarImage": ""
+    },
+    {
+      "rank": 8,
+      "title": "2026年山东卷",
+      "score": 87.1,
+      "dimensions": "考查布局 A · 史料运用 S · 历史推理 S · 设问质量 A · 任务梯度 A · 开放论证 S",
+      "comment": "第17题从徽州程家排日账判断已有数据能否支持空间研究，再解释为何还要查地方志与旧海关材料。第18题把1955年苏联学者讲义的雅尔塔叙述拆成史实与观点，说明形成背景并提出修改。第19题通过两组人物写科技与人文史。",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/山东/2026年山东历史（多源核校网页整理版）.html",
+          "ext": "html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://zujuan.zxls.com/PaperList.aspx?id=29370"
+        }
+      ],
+      "radarImage": ""
+    },
+    {
+      "rank": 9,
+      "title": "2025年黑吉辽蒙卷",
+      "score": 84.3,
+      "dimensions": "考查布局 A · 史料运用 S · 历史推理 S · 设问质量 A · 任务梯度 A · 开放论证 A",
+      "comment": "第18题对读1940年与1952年版《新民主主义论》的同段文字，结合背景解释修改。第19题用研究主题与著作辨析法国大革命史学变化。第20题从奏折标题与信息中任选材料，自拟论题。黑龙江、吉林、辽宁、内蒙古共用。",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/黑吉辽蒙/2025年黑吉辽蒙高考历史（公开转载版）.pdf",
+          "ext": "pdf"
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://www.jhgk.cn/upload/file/20250611/1749607028991051628.pdf"
+        }
+      ],
+      "radarImage": ""
+    },
+    {
+      "rank": 10,
+      "title": "2021年广东卷",
+      "score": 86.2,
+      "dimensions": "考查布局 A · 史料运用 A · 历史推理 S · 设问质量 S · 任务梯度 A · 开放论证 S",
+      "comment": "第3题对读刘禹锡《马嵬行》、《旧唐书》和《资治通鉴》，审查马嵬事件的史料能支撑何种结论。第18题辨析工业革命影响工人的相反观点，第19题以史实评析1932年的历史课程目标。",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/广东/2021年广东历史卷（公开整理版·题面）.docx",
+          "ext": "docx"
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://kaosj.com/papers/2021/06/2021-guangdong-gaokao-history-original/2021_%E9%AB%98%E8%80%83_%E5%8E%86%E5%8F%B2_%E5%B9%BF%E4%B8%9C_%E5%8E%9F%E5%8D%B7%E7%89%88%5Bkaosj.com%5D.docx"
+        }
+      ],
+      "radarImage": ""
+    },
+    {
+      "rank": 11,
+      "title": "2024年上海卷",
+      "score": 86.2,
+      "dimensions": "考查布局 A · 史料运用 S · 历史推理 S · 设问质量 A · 任务梯度 S · 开放论证 A",
+      "comment": "第三大题用晚清教育改革讲清时间尺度如何从单点定位走向过程解释，再比较三个时代写出的评价。第一大题把瓷器传播拆成辨路线、读器物、解释交流。第四大题再让考生自拟论题讨论传统国家治理。",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/上海/2024年上海历史等级考.pdf",
+          "ext": "pdf"
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://imgs.app.gaokaozhitongche.com/resource/pdf/paper/202406/20240617094907_XPmJwr.pdf"
+        }
+      ],
+      "radarImage": ""
+    },
+    {
+      "rank": 12,
+      "title": "2024年北京卷",
+      "score": 87.1,
+      "dimensions": "考查布局 A · 史料运用 S · 历史推理 S · 设问质量 A · 任务梯度 A · 开放论证 S",
+      "comment": "第17题结合孙中山的港口规划图、政策文本与当代开发示意图，评析百年海洋开发。第18题从八份英印法案自行选择两种分期标准，分别划分阶段并说明。第20题用端午节材料说明中华文化特质。",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/北京/2024年北京高考历史（公开转载版）.pdf",
+          "ext": "pdf"
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://cdn.gaokzx.com/17204314282112024%E5%8C%97%E4%BA%AC%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.pdf"
+        }
+      ],
+      "radarImage": ""
+    },
+    {
+      "rank": 13,
+      "title": "2025年江苏卷",
+      "score": 84.3,
+      "dimensions": "考查布局 A · 史料运用 S · 历史推理 S · 设问质量 A · 任务梯度 A · 开放论证 A",
+      "comment": "第17题先在两幅地图上标示九州中心，再写短文解释九州认知的时代变化。第16题比较宋、清与新中国的水利治理，第18题从饮食、方言和衣着解释抗战迁徙带来的重庆社会变迁。第19题回到定向的建筑史背景与影响分析。",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/江苏/2025年江苏历史（试题转载版）.pdf",
+          "ext": "pdf"
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://raw.githubusercontent.com/qingshuo/China-Gaokao-Papers-Collection/main/papers/2025/JS/%E5%8E%86%E5%8F%B2/2025%E5%B9%B4%E9%AB%98%E8%80%83%E6%B1%9F%E8%8B%8F%E5%8E%86%E5%8F%B2.pdf"
+        }
+      ],
+      "radarImage": ""
+    },
+    {
+      "rank": 14,
+      "title": "2025年四川卷",
+      "score": 87.1,
+      "dimensions": "考查布局 A · 史料运用 S · 历史推理 S · 设问质量 A · 任务梯度 A · 开放论证 S",
+      "comment": "第17题比较康帕内拉、卢梭、康有为对科技社会作用的异同，并结合史实论证。第18题自行质疑明代户口变化统计图并解释。第19题由烈士陵园的停复建及1950年形势分析纪念实践。",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/四川/2025年四川历史卷（公开核校题面网页存档）.html",
+          "ext": "html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://zujuan.zxls.com/PaperList.aspx?id=24586"
+        }
+      ],
+      "radarImage": ""
+    },
+    {
+      "rank": 15,
+      "title": "2023年福建卷",
+      "score": 84.3,
+      "dimensions": "考查布局 A · 史料运用 S · 历史推理 A · 设问质量 A · 任务梯度 A · 开放论证 S",
+      "comment": "第18题对照《建康实录》《宋书》和《南史》，让考生写出一则校勘记。第19题比较中国和英格兰土地清查的制度作用。第20题自拟书名与分章分节的目录，把历史观点落实为叙述结构。",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/福建/2023年福建历史（试题图版）.pdf",
+          "ext": "pdf"
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://imgs.app.gaokaozhitongche.com/resource/pdf/paper/202504/20250408074043_oi1Vx3.pdf"
+        }
+      ],
+      "radarImage": ""
+    },
+    {
+      "rank": 16,
+      "title": "2026年河北卷",
+      "score": 87.1,
+      "dimensions": "考查布局 A · 史料运用 S · 历史推理 S · 设问质量 A · 任务梯度 A · 开放论证 S",
+      "comment": "第18题从交往双方的礼物中任选一件解读外交活动。第19题用简牍出土表与定县汉简、长沙走马楼吴简的内容论证史料价值。第20题将严复关于变法的论述转换为因果图，用四个时期的改革史料卡片补证，再评价对改革的看法。",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/河北/2026年河北高考历史（转载图版）.pdf",
+          "ext": "pdf"
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://app.gaokaozhitongche.com/newsexam/pc/bwKqReRD"
+        }
+      ],
+      "radarImage": ""
+    },
+    {
+      "rank": 17,
+      "title": "2025年湖北卷",
+      "score": 84.3,
+      "dimensions": "考查布局 A · 史料运用 S · 历史推理 S · 设问质量 A · 任务梯度 A · 开放论证 A",
+      "comment": "第3题比较墓志与新旧《唐书》李祐仕宦履历，要求辨析证据能支持的结论。第16题从唐代匦制与清代奏折的信息处理困难解释决策机构变化，第19题围绕新兴社会群体作提纲。",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/湖北/2025年湖北历史（试题整理版）.docx",
+          "ext": "docx"
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://kaosj.com/papers/2025/07/2025-gaokao-history-hubei-paper/"
+        }
+      ],
+      "radarImage": ""
+    },
+    {
+      "rank": 18,
+      "title": "2025年北京卷",
+      "score": 84.3,
+      "dimensions": "考查布局 A · 史料运用 S · 历史推理 S · 设问质量 B · 任务梯度 A · 开放论证 S",
+      "comment": "第17题要求点评AI对1903年江西乡试商政题的回答，读原文可发现AI将贸易逆差写成顺差，设问对点评范围的限定偏宽。第16题用食肆记载、考古遗存及食谱考查宋元饮食变迁。第18题从恩格斯文本自选观点，以外国史实阐释。",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/北京/2025年北京高考历史（公开转载版）.pdf",
+          "ext": "pdf"
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://www.jhgk.cn/upload/file/20250708/1751942048077009544.pdf"
+        }
+      ],
+      "radarImage": ""
+    },
+    {
+      "rank": 19,
+      "title": "2021年山东卷",
+      "score": 84.3,
+      "dimensions": "考查布局 A · 史料运用 S · 历史推理 S · 设问质量 A · 任务梯度 A · 开放论证 A",
+      "comment": "第19题用英国产业统计、坎布里亚地方个案及漫画，逐问检验‘英国衰退’的证据和时间尺度。第16题把宋初议迁都的记载放到气候、黄河水患和地理条件中读，第17题从清末《启蒙画报》图文解释‘小英雄’形象。",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/山东/2021年山东历史（备课存档图版）.pdf",
+          "ext": "pdf"
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://17094505.s21i.faiusr.com/61/ABUIABA9GAAgi7vfhwYoxLyG6wM.pdf"
+        }
+      ],
+      "radarImage": ""
+    },
+    {
+      "rank": 20,
+      "title": "2022年天津卷",
+      "score": 84.3,
+      "dimensions": "考查布局 A · 史料运用 A · 历史推理 S · 设问质量 A · 任务梯度 A · 开放论证 S",
+      "comment": "第14—15题以最佳选项分档评价解释的充分程度。第17题从绘画透视小史选两次转折解释背景，并归纳写作小史的方法。第18题从本地近现代史选至少三项史实，为体育赛事开幕式拟主题并说明。",
+      "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/天津/2022年天津高考历史（公开转载版）.docx",
+          "ext": "docx"
+        }
+      ],
+      "sources": [
+        {
+          "label": "来源",
+          "url": "https://gaokao.eol.cn/shiti/ls/202303/W020230314563058504623.docx"
+        }
+      ],
+      "radarImage": ""
+    }
+  ]
+}

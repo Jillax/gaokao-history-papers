@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>新高考历史历年真题开放资料库</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <div class="header-top">
+        <div>
+          <h1 class="site-title" id="siteTitle">新高考历史历年真题开放资料库</h1>
+          <p class="site-subtitle" id="siteSubtitle">2015–2026 各省新高考历史试卷归档、检索与下载</p>
+        </div>
+        <div class="header-actions" id="headerActions"></div>
+      </div>
+
+      <div class="stats-bar" id="statsBar"></div>
+
+      <nav class="tabs" role="tablist">
+        <button class="tab-btn active" data-tab="archive">历年试卷库</button>
+        <button class="tab-btn" data-tab="top20">Top 20 精选榜单</button>
+        <button class="tab-btn" data-tab="about">使用与版权说明</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main-content">
+    <div class="container">
+      <!-- Tab 1: 历年试卷库 -->
+      <section class="tab-panel active" id="tab-archive">
+        <div class="filter-card">
+          <div class="search-row">
+            <input
+              type="search"
+              id="searchInput"
+              class="search-input"
+              placeholder="搜索省份、年份、版本说明（如：2023 北京、参考答案、浙江）..."
+            />
+            <select id="yearFilter" class="select-input">
+              <option value="">全部年份</option>
+            </select>
+            <select id="statusFilter" class="select-input">
+              <option value="">全部状态</option>
+              <option value="题面可用">题面可用</option>
+              <option value="部分题面">部分题面</option>
+              <option value="待补">待补</option>
+            </select>
+            <select id="formatFilter" class="select-input">
+              <option value="">全部格式</option>
+              <option value="pdf">PDF</option>
+              <option value="html">HTML</option>
+              <option value="docx">DOCX</option>
+              <option value="md">Markdown</option>
+            </select>
+          </div>
+          <div class="region-pills" id="regionPills"></div>
+        </div>
+
+        <div class="result-bar">
+          <span id="resultCount">正在加载目录...</span>
+          <span id="generatedAt"></span>
+        </div>
+
+        <div class="paper-list" id="paperList"></div>
+      </section>
+
+      <!-- Tab 2: Top 20 榜单 -->
+      <section class="tab-panel" id="tab-top20">
+        <div class="top20-grid" id="top20List"></div>
+      </section>
+
+      <!-- Tab 3: 使用与版权说明 -->
+      <section class="tab-panel" id="tab-about">
+        <div class="info-card">
+          <h2>关于本站</h2>
+          <p>
+            本项目致力于收集、核校与归档 2015 年 10 月至 2026 年各省新高考历史真题，方便一线教师教研备课与考生复习自测。
+          </p>
+          <ul>
+            <li><strong>在线预览</strong>：<code>PDF</code>、<code>HTML</code> 与 <code>Markdown</code> 格式支持直接在浏览器内弹窗预览。</li>
+            <li><strong>直接下载</strong>：<code>DOCX</code> 及所有归档文件均支持直接下载到本地使用；每条记录也尽量保留了原始公开出处链接。</li>
+            <li><strong>部分题面 / 待补</strong>：标注为“部分题面”或“待补”的场次仍在持续补全与交叉核校中。</li>
+          </ul>
+          <h2>版权与免责声明</h2>
+          <p id="aboutDisclaimer"></p>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container" id="footerDisclaimer"></div>
+  </footer>
+
+  <!-- 预览弹窗 -->
+  <div class="modal-backdrop" id="previewModal" role="dialog" aria-modal="true">
+    <div class="modal">
+      <div class="modal-header">
+        <span class="modal-title" id="modalTitle">文件预览</span>
+        <div style="display:flex;gap:8px;align-items:center;">
+          <a id="modalDownloadBtn" class="btn btn-sm btn-primary" href="#" download target="_blank" rel="noopener">下载原文件</a>
+          <button id="modalCloseBtn" class="btn btn-sm">关闭</button>
+        </div>
+      </div>
+      <div class="modal-body" id="modalBody"></div>
+    </div>
+  </div>
+
+  <script src="./config.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>
