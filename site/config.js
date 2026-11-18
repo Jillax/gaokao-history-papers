@@ -11,7 +11,7 @@ window.SITE_CONFIG = {
   assetBaseUrl: "..",
 
   // 可选：你的 GitHub / Gitee 镜像仓库地址（留空则不显示仓库按钮）
-  repoUrl: "",
+  repoUrl: "https://github.com/Jillax/gaokao-history-papers",
 
   // 底部免责声明
   disclaimer:
