@@ -1,7 +1,7 @@
 {
   "meta": {
-    "summary": "2015 年 10 月至 2026 年 · 编目 131 套 · 已归档 124 套（另含 4 套官方评析/节选补充），其中 115 套题面可用于评选。榜单基于公开可核的题面。",
-    "generatedAt": "2026-11-18 19:56:47"
+    "summary": "2015 年 10 月至 2026 年 · 编目 131 套 · 已归档 127 套（另含 4 套官方评析/节选补充），其中 120 套题面可用于评选。榜单基于公开可核的题面。",
+    "generatedAt": "2026-11-18 22:28:58"
   },
   "papers": [
     {
@@ -36,16 +36,16 @@
       "regionFull": "上海",
       "title": "2018年上海卷",
       "year": 2018,
-      "status": "部分题面",
-      "statusDetail": "部分题面",
-      "note": "公开文字稿，图表缺失",
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "网页整理版，完整题面28题，6幅插图离线内嵌，删除原稿广告水印并校勘讹字",
       "files": [
         {
           "label": "本地试卷",
           "path": "原卷/上海/2018年上海历史等级考.html",
           "ext": "html",
-          "sizeBytes": 10127,
-          "sizeText": "9.9 KB",
+          "sizeBytes": 488100,
+          "sizeText": "476.7 KB",
           "exists": true
         }
       ],
@@ -131,23 +131,31 @@
       "regionFull": "上海",
       "title": "2022年上海卷",
       "year": 2022,
-      "status": "待补",
-      "statusDetail": "待补（已补充四大主题与第一题节选）",
-      "note": "公开文字预览，部分图表缺失",
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "网页整理版，完整题面四大主题15小题，5 幅原卷图片离线内嵌",
       "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/上海/2022年上海历史等级考（网页整理版）.html",
+          "ext": "html",
+          "sizeBytes": 2503708,
+          "sizeText": "2.39 MB",
+          "exists": true
+        },
         {
           "label": "主题节选",
           "path": "原卷/上海/2022年上海历史等级考（公开节选与评析）.md",
           "ext": "md",
-          "sizeBytes": 1739,
-          "sizeText": "1.7 KB",
+          "sizeBytes": 2092,
+          "sizeText": "2.0 KB",
           "exists": true
         }
       ],
       "sources": [
         {
           "label": "来源",
-          "url": "https://www.renrendoc.com/paper/495639414.html"
+          "url": "http://zujuan.zxls.com/PaperList.aspx?id=16844"
         }
       ]
     },
@@ -209,10 +217,18 @@
       "regionFull": "上海",
       "title": "2025年上海卷",
       "year": 2025,
-      "status": "待补",
-      "statusDetail": "待补（已补充考试院官方评析与四大主题）",
-      "note": "公开组卷整理，已找到在线题面",
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "网页整理版，完整题面四大主题，2 幅插图离线内嵌，附网络整理参考答案",
       "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/上海/2025年上海历史等级考（网页整理版）.html",
+          "ext": "html",
+          "sizeBytes": 169982,
+          "sizeText": "166.0 KB",
+          "exists": true
+        },
         {
           "label": "官方评析",
           "path": "原卷/上海/2025年上海历史等级考（考试院官方评析与大题主题）.md",
@@ -225,7 +241,7 @@
       "sources": [
         {
           "label": "来源",
-          "url": "https://zujuan.21cnjy.com/paper/view/6274899"
+          "url": "https://www.renrendoc.com/paper/511622856.html"
         }
       ]
     },
@@ -1517,16 +1533,16 @@
       "regionFull": "福建",
       "title": "2026年福建卷",
       "year": 2026,
-      "status": "部分题面",
-      "statusDetail": "部分题面",
-      "note": "全题网页整理稿，配图已离线内嵌（题面来源尚待互校）",
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "网页整理版，全题面已与组卷系统逐题互校，配图离线内嵌",
       "files": [
         {
           "label": "本地试卷",
           "path": "原卷/福建/2026年福建历史（网页整理版）.html",
           "ext": "html",
-          "sizeBytes": 85908,
-          "sizeText": "83.9 KB",
+          "sizeBytes": 40597,
+          "sizeText": "39.6 KB",
           "exists": true
         }
       ],
@@ -2236,10 +2252,18 @@
       "regionFull": "江西",
       "title": "2024年江西卷",
       "year": 2024,
-      "status": "待补",
-      "statusDetail": "待补（已补充第1–2题与第17–18题完整材料设问）",
-      "note": "公开节选整理",
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "公开图版（9 图全卷，附网络整理答案解析，第 18 题解析缺失、编号错位）",
       "files": [
+        {
+          "label": "本地试卷",
+          "path": "原卷/江西/2024年江西历史（公开图版）.html",
+          "ext": "html",
+          "sizeBytes": 8250563,
+          "sizeText": "7.87 MB",
+          "exists": true
+        },
         {
           "label": "节选整理",
           "path": "原卷/江西/2024年江西历史（公开节选整理版）.md",
@@ -2252,7 +2276,7 @@
       "sources": [
         {
           "label": "来源",
-          "url": "https://www.renrendoc.com/paper/350948619.html"
+          "url": "https://www.gk100.com/read_18547972.htm"
         }
       ]
     },
