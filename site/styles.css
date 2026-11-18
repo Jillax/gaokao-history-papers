@@ -382,6 +382,44 @@ a:hover {
   padding: 20px 24px;
   box-shadow: var(--shadow);
 }
+
+/* Video card */
+.video-grid {
+  display: grid;
+  gap: 16px;
+}
+.video-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 20px;
+  box-shadow: var(--shadow);
+}
+.video-header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+.video-title {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 700;
+}
+.video-meta {
+  font-size: 13px;
+  color: var(--muted);
+  margin: 4px 0 0;
+}
+.video-player {
+  width: 100%;
+  max-height: 540px;
+  border-radius: 6px;
+  background: #000;
+  display: block;
+}
 .info-card h2 {
   margin-top: 0;
   font-size: 18px;

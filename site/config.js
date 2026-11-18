@@ -13,6 +13,16 @@ window.SITE_CONFIG = {
   // 可选：你的 GitHub / Gitee 镜像仓库地址（留空则不显示仓库按钮）
   repoUrl: "https://github.com/Jillax/gaokao-history-papers",
 
+  // 专题纪录片 / 视频资源（大文件托管于 GitHub Releases）
+  videos: [
+    {
+      title: "《国家记忆》统编教材 · 第四集：以史育人（1080P 修复版）",
+      meta: "MP4 高清视频 · 托管于 GitHub Releases · 历史教学与教研参考",
+      size: "766.94 MB",
+      url: "https://github.com/Jillax/gaokao-history-papers/releases/download/media-v1/_._._._1080P.mp4",
+    },
+  ],
+
   // 底部免责声明
   disclaimer:
     "本站所收录试卷均整理自各省教育考试院及公开网络资料，仅用于中学历史教学研究与个人学习交流。如有版权或勘误问题，请联系维护者处理。",

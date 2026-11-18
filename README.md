@@ -16,6 +16,10 @@
 - [site/](site)：零构建依赖的静态检索下载网站源码
 - [DEPLOYMENT.md](DEPLOYMENT.md)：静态网站与国内对象存储（OSS/COS）部署指南
 
+## 专题纪录片
+
+- [《国家记忆》统编教材 · 第四集：以史育人（1080P 修复版，766.94 MB）](https://github.com/Jillax/gaokao-history-papers/releases/tag/media-v1)（托管于 GitHub Releases，可在网站“专题纪录片”标签页直接播放或下载）
+
 ## 更新网站数据
 
 新增或修订 `试卷目录.md` 后，在仓库根目录运行：

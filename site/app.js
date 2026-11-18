@@ -309,9 +309,42 @@
     openPreview(btn.dataset.previewUrl, btn.dataset.previewExt, btn.dataset.previewTitle);
   });
 
+  function renderVideos() {
+    const el = document.getElementById("videoList");
+    if (!el) return;
+    const videos = Array.isArray(cfg.videos) ? cfg.videos : [];
+    if (!videos.length) {
+      el.innerHTML = `<div class="empty-state">暂无专题视频</div>`;
+      return;
+    }
+
+    el.innerHTML = videos
+      .map(
+        (v) => `
+        <div class="video-card">
+          <div class="video-header">
+            <div>
+              <h2 class="video-title">${escapeHtml(v.title)}</h2>
+              <p class="video-meta">${escapeHtml(v.meta || "")}</p>
+            </div>
+            <div style="display:flex;gap:8px;flex-wrap:wrap;">
+              <a class="btn btn-primary" href="${escapeHtml(v.url)}" download target="_blank" rel="noopener">下载原片 (${escapeHtml(v.size || "MP4")})</a>
+            </div>
+          </div>
+          <video class="video-player" controls preload="metadata">
+            <source src="${escapeHtml(v.url)}" type="video/mp4" />
+            您的浏览器不支持直接播放 MP4，请点击右上角按钮下载观看。
+          </video>
+        </div>
+      `
+      )
+      .join("");
+  }
+
   async function boot() {
     initHeaderAndFooter();
     initTabs();
+    renderVideos();
     try {
       const res = await fetch("./data/catalog.json");
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
