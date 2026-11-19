@@ -16,6 +16,7 @@ from urllib.parse import unquote
 ROOT = Path(__file__).resolve().parent.parent
 CATALOG_MD = ROOT / "试卷目录.md"
 TOP20_MD = ROOT / "新高考历史卷 Top 20.md"
+FULL_RANK_MD = ROOT / "全库评分总榜.md"
 RADAR_DIR = ROOT / "雷达图"
 OUTPUT_JSON = ROOT / "site" / "data" / "catalog.json"
 
@@ -200,9 +201,32 @@ def parse_top20() -> list[dict]:
     return items
 
 
+def parse_full_scores() -> dict[str, dict]:
+    if not FULL_RANK_MD.is_file():
+        return {}
+    scores: dict[str, dict] = {}
+    for line in FULL_RANK_MD.read_text(encoding="utf-8").splitlines():
+        m = re.match(r"^\|\s*(\d+)\s*\|\s*\[?([^\]|]+?)(?:\]\([^)]+\))?\s*\|\s*\*\*([\d.]+)\*\*\s*\|(.+)\|$", line.strip())
+        if not m:
+            continue
+        rank = int(m.group(1))
+        title = m.group(2).strip()
+        score = float(m.group(3))
+        grades = [c.strip() for c in m.group(4).split("|") if c.strip()]
+        scores[title] = {"rank": rank, "score": score, "grades": grades}
+    return scores
+
+
 def main() -> None:
     meta, papers = parse_catalog()
     top20 = parse_top20()
+    full_scores = parse_full_scores()
+    for p in papers:
+        sc = full_scores.get(p["title"])
+        if sc:
+            p["rank"] = sc["rank"]
+            p["score"] = sc["score"]
+            p["grades"] = sc["grades"]
 
     OUTPUT_JSON.parent.mkdir(parents=True, exist_ok=True)
     payload = {

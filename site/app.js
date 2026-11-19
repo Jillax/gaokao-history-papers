@@ -182,6 +182,11 @@
           .map((ext) => `<span class="badge badge-fmt">${escapeHtml(ext)}</span>`)
           .join("");
 
+        const scoreBadge =
+          typeof p.score === "number"
+            ? `<span class="badge badge-ok">综合指数 ${p.score.toFixed(1)} · #${p.rank}</span>`
+            : "";
+
         const sourceLinks = p.sources
           .map(
             (s) =>
@@ -196,6 +201,7 @@
               <div class="paper-title-line">
                 <span class="paper-title">${escapeHtml(p.title)}</span>
                 ${statusBadge(p.status)}
+                ${scoreBadge}
                 ${fmtBadges}
               </div>
               <div class="paper-note">${escapeHtml(p.note || p.statusDetail)}</div>
