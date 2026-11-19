@@ -1,7 +1,7 @@
 {
   "meta": {
-    "summary": "2015 年 10 月至 2026 年 · 编目 131 套 · 已归档 127 套（另含 4 套官方评析/节选补充），其中 120 套题面可用于评选。榜单基于公开可核的题面。",
-    "generatedAt": "2026-11-18 22:28:58"
+    "summary": "2015 年 10 月至 2026 年 · 编目 131 套 · 已归档 127 套（另含 4 套官方评析/节选补充），其中 124 套题面可用于评选。榜单基于公开可核的题面。",
+    "generatedAt": "2026-11-19 20:21:11"
   },
   "papers": [
     {
@@ -2719,16 +2719,16 @@
       "regionFull": "浙江",
       "title": "2015年10月浙江卷",
       "year": 2015,
-      "status": "部分题面",
-      "statusDetail": "部分题面",
-      "note": "公开文字稿，图表缺失",
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "网页整理版，完整题面34题，第1—26题据公开预览页扫描核对，5幅插图离线内嵌，第29题图暂缺",
       "files": [
         {
           "label": "本地试卷",
-          "path": "原卷/浙江/2015年10月浙江历史选考.html",
+          "path": "原卷/浙江/2015年10月浙江历史选考（网页整理版）.html",
           "ext": "html",
-          "sizeBytes": 16641,
-          "sizeText": "16.3 KB",
+          "sizeBytes": 307842,
+          "sizeText": "300.6 KB",
           "exists": true
         }
       ],
@@ -2745,16 +2745,16 @@
       "regionFull": "浙江",
       "title": "2016年4月浙江卷",
       "year": 2016,
-      "status": "部分题面",
-      "statusDetail": "部分题面",
-      "note": "公开文字稿，图表缺失",
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "网页整理版，完整题面34题，4幅插图离线内嵌，附参考答案，第28/31/32题图暂缺",
       "files": [
         {
           "label": "本地试卷",
-          "path": "原卷/浙江/2016年4月浙江历史选考.html",
+          "path": "原卷/浙江/2016年4月浙江历史选考（网页整理版）.html",
           "ext": "html",
-          "sizeBytes": 40566,
-          "sizeText": "39.6 KB",
+          "sizeBytes": 379506,
+          "sizeText": "370.6 KB",
           "exists": true
         }
       ],
@@ -2771,16 +2771,16 @@
       "regionFull": "浙江",
       "title": "2016年10月浙江卷",
       "year": 2016,
-      "status": "部分题面",
-      "statusDetail": "部分题面",
-      "note": "公开文字稿，图表缺失",
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "网页整理版，完整题面34题，4幅插图离线内嵌，第29/34题图暂缺",
       "files": [
         {
           "label": "本地试卷",
-          "path": "原卷/浙江/2016年10月浙江历史选考.html",
+          "path": "原卷/浙江/2016年10月浙江历史选考（网页整理版）.html",
           "ext": "html",
-          "sizeBytes": 18198,
-          "sizeText": "17.8 KB",
+          "sizeBytes": 315873,
+          "sizeText": "308.5 KB",
           "exists": true
         }
       ],
@@ -2875,16 +2875,24 @@
       "regionFull": "浙江",
       "title": "2018年11月浙江卷",
       "year": 2018,
-      "status": "部分题面",
-      "statusDetail": "部分题面",
-      "note": "公开文字稿，图表缺失",
+      "status": "题面可用",
+      "statusDetail": "题面可用",
+      "note": "网页整理版，完整题面34题，5幅插图离线内嵌，附参考答案；另存《浙江考试》期刊官方扫描版",
       "files": [
         {
           "label": "本地试卷",
-          "path": "原卷/浙江/2018年11月浙江历史选考.html",
+          "path": "原卷/浙江/2018年11月浙江历史选考（网页整理版）.html",
           "ext": "html",
-          "sizeBytes": 36957,
-          "sizeText": "36.1 KB",
+          "sizeBytes": 947106,
+          "sizeText": "924.9 KB",
+          "exists": true
+        },
+        {
+          "label": "官方扫描版",
+          "path": "原卷/浙江/2018年11月浙江历史选考（官方扫描版）.pdf",
+          "ext": "pdf",
+          "sizeBytes": 2223457,
+          "sizeText": "2.12 MB",
           "exists": true
         }
       ],
