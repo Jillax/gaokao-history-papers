@@ -1,7 +1,7 @@
 {
   "meta": {
-    "summary": "2015 年 10 月至 2026 年 · 编目 131 套 · 已归档 127 套（另含 4 套官方评析/节选补充），其中 124 套题面可用于评选。榜单基于公开可核的题面。",
-    "generatedAt": "2026-11-19 20:21:11"
+    "summary": "2015 年 10 月至 2026 年 · 编目 131 套 · 已归档 126 套（另含 5 套官方评析/节选补充），其中 124 套题面可用于评选。榜单基于公开可核的题面。",
+    "generatedAt": "2026-11-19 21:02:26"
   },
   "papers": [
     {
@@ -89,9 +89,18 @@
       "title": "2020年上海卷",
       "year": 2020,
       "status": "待补",
-      "statusDetail": "待补",
-      "note": "仅核对考试院试卷评析与公开单题",
-      "files": [],
+      "statusDetail": "待补（已补充公开结构评析与大题节选）",
+      "note": "考试院评析核结构，附公开题库大题三\"上海的两次开放\"全文节选",
+      "files": [
+        {
+          "label": "公开评析",
+          "path": "原卷/上海/2020年上海历史等级考（公开结构评析与大题节选）.md",
+          "ext": "md",
+          "sizeBytes": 5330,
+          "sizeText": "5.2 KB",
+          "exists": true
+        }
+      ],
       "sources": [
         {
           "label": "来源",
@@ -105,23 +114,23 @@
       "regionFull": "上海",
       "title": "2021年上海卷",
       "year": 2021,
-      "status": "部分题面",
-      "statusDetail": "部分题面",
-      "note": "公开文字稿，OCR错字多、图表缺失",
+      "status": "待补",
+      "statusDetail": "待补（已补充公开结构与评析）",
+      "note": "原归档文字稿经核实为2015旧高考误标已剔除，真卷全文待补",
       "files": [
         {
-          "label": "本地试卷",
-          "path": "原卷/上海/2021年上海历史等级考.html",
-          "ext": "html",
-          "sizeBytes": 28626,
-          "sizeText": "28.0 KB",
+          "label": "公开评析",
+          "path": "原卷/上海/2021年上海历史等级考（公开结构与评析）.md",
+          "ext": "md",
+          "sizeBytes": 4200,
+          "sizeText": "4.1 KB",
           "exists": true
         }
       ],
       "sources": [
         {
           "label": "来源",
-          "url": "https://www.yeyulingfeng.com/wendang/584530.html"
+          "url": "https://www.shmeea.edu.cn/page/08000/20210509/15191.html"
         }
       ]
     },
@@ -2237,7 +2246,7 @@
       "year": 2026,
       "status": "待补",
       "statusDetail": "待补",
-      "note": "公开资料尚未找到可核的完整题面",
+      "note": "自主命题卷；学科网/高考资源网有需登录版本，本环境抓取被风控拦截，免费可核全文暂缺",
       "files": [],
       "sources": [
         {
@@ -2314,14 +2323,14 @@
       "year": 2026,
       "status": "部分题面",
       "statusDetail": "部分题面",
-      "note": "网页整理版",
+      "note": "网页整理版，公开流通完整版本13单选+4大题共94分；原第6、11题官方公布时有意隐去、公开渠道暂缺",
       "files": [
         {
           "label": "本地试卷",
           "path": "原卷/江西/2026年江西历史（网页整理版）.html",
           "ext": "html",
-          "sizeBytes": 167775,
-          "sizeText": "163.8 KB",
+          "sizeBytes": 168637,
+          "sizeText": "164.7 KB",
           "exists": true
         }
       ],
@@ -2548,12 +2557,12 @@
       "year": 2026,
       "status": "待补",
       "statusDetail": "待补",
-      "note": "待补原卷",
+      "note": "自主命题卷；学科网有免费\"网络收集版\"但需登录、本环境风控拦截，免费可核全文暂缺",
       "files": [],
       "sources": [
         {
           "label": "来源",
-          "url": "https://www.zxls.com/generation/2026/11/11/784292.html"
+          "url": "https://m.zxxk.com/docpack/3685687.html"
         }
       ]
     },
